@@ -31,7 +31,8 @@
     "examples/catalog",
     "README.md",
     "TOOLS.md",
-    "THIRD_PARTY_NOTICES.md"
+    "THIRD_PARTY_NOTICES.md",
+    "docs/examples"
   ],
   "engines": {
     "node": ">=22.12.0"

@@ -1,0 +1,3662 @@
+{
+  "sourceArchive": "https://library.ldraw.org/library/updates/complete.zip",
+  "archiveSha256": "d2a695868ed2b3957c45b022a6451908edab22cc043179dd61d18dd382b35e11",
+  "libraryVersion": "2026-08",
+  "adaptation": "Bricksmith placed and colored catalog geometry into the illustrated models and rendered it to PNG. Catalog source geometry was preserved.",
+  "images": [
+    {
+      "image": "shuttle.png",
+      "title": "Space shuttle",
+      "pieces": 124,
+      "sha256": "f257e2320a2ab1d32bc88ccd4685461d755995b8da09ccbc572683bbdb212baa",
+      "pixels": [
+        900,
+        900
+      ],
+      "geometryFiles": [
+        "p/1-16chrd.dat",
+        "p/1-16cyli.dat",
+        "p/1-16edge.dat",
+        "p/1-4chrd.dat",
+        "p/1-4cyli.dat",
+        "p/1-4cylo.dat",
+        "p/1-4cyls.dat",
+        "p/1-4cyls2.dat",
+        "p/1-4edge.dat",
+        "p/1-4ndis.dat",
+        "p/1-8chrd.dat",
+        "p/1-8cyli.dat",
+        "p/1-8edge.dat",
+        "p/2-4cyli.dat",
+        "p/2-4cylo.dat",
+        "p/2-4cyls.dat",
+        "p/2-4disc.dat",
+        "p/2-4edge.dat",
+        "p/2-4ndis.dat",
+        "p/2-4ring3.dat",
+        "p/2-4stud4.dat",
+        "p/3-16chrd.dat",
+        "p/3-16cyli.dat",
+        "p/3-16cyls.dat",
+        "p/3-16cys2.dat",
+        "p/3-16edge.dat",
+        "p/3-16ndis.dat",
+        "p/3-4cyli.dat",
+        "p/3-4cylo.dat",
+        "p/3-4disc.dat",
+        "p/3-4edge.dat",
+        "p/3-4ring3.dat",
+        "p/3-4stud4.dat",
+        "p/3-8cyli.dat",
+        "p/4-4con1.dat",
+        "p/4-4cyli.dat",
+        "p/4-4cylo.dat",
+        "p/4-4cyls.dat",
+        "p/4-4cylse.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/4-4ndis.dat",
+        "p/4-4ring1.dat",
+        "p/4-4ring2.dat",
+        "p/4-4ring3.dat",
+        "p/4-4ring4.dat",
+        "p/48/1-12chrd.dat",
+        "p/48/1-12cyli.dat",
+        "p/48/1-12edge.dat",
+        "p/48/1-12tndis.dat",
+        "p/48/1-24chrd.dat",
+        "p/48/1-24edge.dat",
+        "p/48/1-24tndis.dat",
+        "p/48/1-4cyli.dat",
+        "p/48/1-4edge.dat",
+        "p/48/1-8chrd.dat",
+        "p/48/1-8con12.dat",
+        "p/48/1-8con2.dat",
+        "p/48/1-8cyli.dat",
+        "p/48/1-8edge.dat",
+        "p/48/4-4con2.dat",
+        "p/48/4-4cyli.dat",
+        "p/48/4-4edge.dat",
+        "p/5-8cyli.dat",
+        "p/5-8edge.dat",
+        "p/axl5ho10.dat",
+        "p/axl5hol8.dat",
+        "p/axl5hol9.dat",
+        "p/axlehol2.dat",
+        "p/axlehol3.dat",
+        "p/axlehole.dat",
+        "p/box.dat",
+        "p/box2-11.dat",
+        "p/box2-5.dat",
+        "p/box2-7.dat",
+        "p/box3u2p.dat",
+        "p/box3u7a.dat",
+        "p/box3u8p.dat",
+        "p/box4-1.dat",
+        "p/box4-2p.dat",
+        "p/box4-4a.dat",
+        "p/box4.dat",
+        "p/box5-1.dat",
+        "p/box5.dat",
+        "p/boxjcyl4.dat",
+        "p/empty.dat",
+        "p/rect.dat",
+        "p/rect1.dat",
+        "p/rect2a.dat",
+        "p/rect2p.dat",
+        "p/rect3.dat",
+        "p/recte3.dat",
+        "p/recte4.dat",
+        "p/stud.dat",
+        "p/stud10.dat",
+        "p/stud2a.dat",
+        "p/stud3.dat",
+        "p/stud3a.dat",
+        "p/stud4.dat",
+        "p/stud4a.dat",
+        "p/stug-1x4.dat",
+        "p/stug-1x8.dat",
+        "p/stug-2x2.dat",
+        "p/stug-3x3.dat",
+        "p/stug-4x4.dat",
+        "p/stug-5x5.dat",
+        "p/stug10-2x2.dat",
+        "p/stug3.dat",
+        "p/stug4-1x5.dat",
+        "p/stug4.dat",
+        "p/stug5.dat",
+        "parts/15068.dat",
+        "parts/24309.dat",
+        "parts/2431.dat",
+        "parts/3001.dat",
+        "parts/3022.dat",
+        "parts/3034.dat",
+        "parts/3035.dat",
+        "parts/30355.dat",
+        "parts/30356.dat",
+        "parts/3036.dat",
+        "parts/3037.dat",
+        "parts/3068b.dat",
+        "parts/3544.dat",
+        "parts/3545.dat",
+        "parts/3941.dat",
+        "parts/3942c.dat",
+        "parts/43710.dat",
+        "parts/43711.dat",
+        "parts/43712.dat",
+        "parts/43713.dat",
+        "parts/6233.dat",
+        "parts/6239.dat",
+        "parts/87079.dat",
+        "parts/s/15068s01.dat",
+        "parts/s/24309s01.dat",
+        "parts/s/2431s01.dat",
+        "parts/s/3001s01.dat",
+        "parts/s/30355s01.dat",
+        "parts/s/3037s01.dat",
+        "parts/s/3068bs01.dat",
+        "parts/s/3544s01.dat",
+        "parts/s/3544s02.dat",
+        "parts/s/3941s01.dat",
+        "parts/s/43710s01.dat",
+        "parts/s/6233s01.dat",
+        "parts/s/6239s01.dat",
+        "parts/s/87079s01.dat"
+      ]
+    },
+    {
+      "image": "volvo-suv.png",
+      "title": "Volvo-inspired SUV",
+      "pieces": 301,
+      "sha256": "66efd11a33d09611291105dcf6a01364c885efce24362bc007b0dcdc3f80e2e3",
+      "pixels": [
+        1600,
+        1600
+      ],
+      "geometryFiles": [
+        "p/1-16chrd.dat",
+        "p/1-16cyli.dat",
+        "p/1-16cylo.dat",
+        "p/1-16edge.dat",
+        "p/1-16tang.dat",
+        "p/1-16tndis.dat",
+        "p/1-4cyli.dat",
+        "p/1-4cylo.dat",
+        "p/1-4cyls2.dat",
+        "p/1-4disc.dat",
+        "p/1-4edge.dat",
+        "p/1-4ndis.dat",
+        "p/1-4ring3.dat",
+        "p/1-4ring4.dat",
+        "p/1-4stud4.dat",
+        "p/1-8chrd.dat",
+        "p/1-8cyli.dat",
+        "p/1-8cylo.dat",
+        "p/1-8edge.dat",
+        "p/1-8ring3.dat",
+        "p/1-8stud4.dat",
+        "p/1-8tndis.dat",
+        "p/2-4chrd.dat",
+        "p/2-4cyli.dat",
+        "p/2-4cylo.dat",
+        "p/2-4disc.dat",
+        "p/2-4edge.dat",
+        "p/2-4ndis.dat",
+        "p/2-4ring2.dat",
+        "p/2-4ring3.dat",
+        "p/2-4stud4.dat",
+        "p/3-16chrd.dat",
+        "p/3-16cyli.dat",
+        "p/3-16cylo.dat",
+        "p/3-16cys2.dat",
+        "p/3-16edge.dat",
+        "p/3-16ndis.dat",
+        "p/3-16ring2.dat",
+        "p/3-16ring3.dat",
+        "p/3-16stud4.dat",
+        "p/4-4cylc.dat",
+        "p/4-4cyli.dat",
+        "p/4-4cylo.dat",
+        "p/4-4cyls.dat",
+        "p/4-4cylse.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/4-4ndis.dat",
+        "p/4-4ring2.dat",
+        "p/4-4ring3.dat",
+        "p/4-4ring8.dat",
+        "p/4-4ring9.dat",
+        "p/48/1-12chrd.dat",
+        "p/48/1-12cyli.dat",
+        "p/48/1-12edge.dat",
+        "p/48/1-4cyli.dat",
+        "p/48/1-4edge.dat",
+        "p/48/1-6edge.dat",
+        "p/48/1-8aring.dat",
+        "p/48/1-8chrd.dat",
+        "p/48/1-8cyli.dat",
+        "p/48/1-8cylo.dat",
+        "p/48/1-8edge.dat",
+        "p/48/1-8tang.dat",
+        "p/48/4-4con10.dat",
+        "p/48/4-4con19.dat",
+        "p/48/4-4cyli.dat",
+        "p/48/4-4cylo.dat",
+        "p/48/4-4edge.dat",
+        "p/48/4-4ring17.dat",
+        "p/48/4-4ring18.dat",
+        "p/48/4-4ring26.dat",
+        "p/48/4-4ring6.dat",
+        "p/48/4-4ring7.dat",
+        "p/8/4-4cyli.dat",
+        "p/8/4-4cylo.dat",
+        "p/8/4-4disc.dat",
+        "p/8/4-4edge.dat",
+        "p/8/4-4ndis.dat",
+        "p/axl3hole.dat",
+        "p/box2-11.dat",
+        "p/box2-5.dat",
+        "p/box2-7.dat",
+        "p/box3-5a.dat",
+        "p/box3u2p.dat",
+        "p/box3u4a.dat",
+        "p/box4-1.dat",
+        "p/box4-2p.dat",
+        "p/box4-4a.dat",
+        "p/box4.dat",
+        "p/box4t.dat",
+        "p/box5-1.dat",
+        "p/box5-4a.dat",
+        "p/box5.dat",
+        "p/empty.dat",
+        "p/phandle1.dat",
+        "p/rect.dat",
+        "p/rect1.dat",
+        "p/rect2p.dat",
+        "p/rect3.dat",
+        "p/recte3.dat",
+        "p/recte4.dat",
+        "p/stud.dat",
+        "p/stud2.dat",
+        "p/stud23.dat",
+        "p/stud3.dat",
+        "p/stud3a.dat",
+        "p/stud4.dat",
+        "p/stud4a.dat",
+        "p/stud4o.dat",
+        "p/stud4s.dat",
+        "p/stug-1x4.dat",
+        "p/stug-2x1.dat",
+        "p/stug3-1x3.dat",
+        "p/stug3-1x7.dat",
+        "parts/15068.dat",
+        "parts/2412b.dat",
+        "parts/2431.dat",
+        "parts/3001.dat",
+        "parts/3010.dat",
+        "parts/3035.dat",
+        "parts/30374.dat",
+        "parts/3068b.dat",
+        "parts/3069b.dat",
+        "parts/3070b.dat",
+        "parts/4095.dat",
+        "parts/4162.dat",
+        "parts/41769a.dat",
+        "parts/41770a.dat",
+        "parts/42918.dat",
+        "parts/44309.dat",
+        "parts/48336.dat",
+        "parts/56145.dat",
+        "parts/62361.dat",
+        "parts/6267.dat",
+        "parts/63864.dat",
+        "parts/87079.dat",
+        "parts/87994.dat",
+        "parts/88930.dat",
+        "parts/93606.dat",
+        "parts/98138.dat",
+        "parts/s/15068s01.dat",
+        "parts/s/2431s01.dat",
+        "parts/s/3001s01.dat",
+        "parts/s/3010s01.dat",
+        "parts/s/3068bs01.dat",
+        "parts/s/3069bs01.dat",
+        "parts/s/3070bs01.dat",
+        "parts/s/4162s01.dat",
+        "parts/s/41770as01.dat",
+        "parts/s/42918s01.dat",
+        "parts/s/42918s02.dat",
+        "parts/s/44309s01.dat",
+        "parts/s/54087s00.dat",
+        "parts/s/54087s02.dat",
+        "parts/s/54087s09.dat",
+        "parts/s/56145s01.dat",
+        "parts/s/56145s02.dat",
+        "parts/s/56145s03.dat",
+        "parts/s/61068s01.dat",
+        "parts/s/61068s02.dat",
+        "parts/s/63864s01.dat",
+        "parts/s/87079s01.dat",
+        "parts/s/88930s01.dat",
+        "parts/s/93606s01.dat",
+        "parts/s/98138s01.dat",
+        "parts/s/98138s02.dat"
+      ]
+    }
+  ],
+  "geometry": [
+    {
+      "sourcePath": "p/1-16chrd.dat",
+      "title": "Chord 0.0625",
+      "sha256": "e429dd760eb6f0cf460a74e6ebf52c023bedbdea82de7801efa1694b5a1a82e8",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 1-16chrd.dat",
+        "0 Author: Philippe Hurbain [Philo]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01"
+      ]
+    },
+    {
+      "sourcePath": "p/1-16cyli.dat",
+      "title": "Cylinder 0.0625",
+      "sha256": "b60f031d9dfd0995c1741992a5695ee3789419886e8189dead961d05f75f7bfc",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 1-16cyli.dat",
+        "0 Author: Marc Klein [marckl]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01",
+        "0 !HISTORY 2004-12-11 [nielsk] Recreated using Primitive Generator, Edge lines fixed, BFC changed to CCW",
+        "0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01",
+        "0 !HISTORY 2007-06-22 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01"
+      ]
+    },
+    {
+      "sourcePath": "p/1-16cylo.dat",
+      "title": "Cylinder Open 0.0625",
+      "sha256": "6cef884c4f96ec15f5bd1428264af2efba4443cb1e47ead116a8a094febefc67",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 1-16cylo.dat",
+        "0 Author: Max Martin Richter [MMR1988]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01"
+      ]
+    },
+    {
+      "sourcePath": "p/1-16edge.dat",
+      "title": "Circle 0.0625",
+      "sha256": "42fc4d69af1281b71cb2eb9546e99e8bca2fc231d05a0379e71d4e1c9a60c95c",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 1-16edge.dat",
+        "0 Author: Marc Klein [marckl]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01",
+        "0 !HISTORY 2007-06-22 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2017-01-15 [Steffen] BFCed",
+        "0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01"
+      ]
+    },
+    {
+      "sourcePath": "p/1-16tang.dat",
+      "title": "Disc Negative Tangent 0.0625",
+      "sha256": "3bf6430f99195afabdaaab755a660c0978080851fd6f514f50ef0e578e6f82e2",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 1-16tang.dat",
+        "0 Author: Gerald Lasser [GeraldLasser]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02"
+      ]
+    },
+    {
+      "sourcePath": "p/1-16tndis.dat",
+      "title": "Disc Negative Truncated 0.0625",
+      "sha256": "98bf2c3ef480d10f1fb8aac9af0240a0a0704b395b9fb61373c719648ae782d2",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 1-16tndis.dat",
+        "0 Author: Massimo Maso [Sirio]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03"
+      ]
+    },
+    {
+      "sourcePath": "p/1-4chrd.dat",
+      "title": "Chord 0.25",
+      "sha256": "ccba3a97b5cc358754e476b78b4ce61cce5f404cd15e37471b73df3e81784aec",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 1-4chrd.dat",
+        "0 Author: Max Martin Richter [MMR1988]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02",
+        "0 !HISTORY 2007-10-09 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-08-02 [MMR1988] Re-creation with PrimGen2 and Rectifier",
+        "0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02",
+        "0 !HISTORY 2023-10-27 [OrionP] Change author to MMR1988 from hafhead",
+        "0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05"
+      ]
+    },
+    {
+      "sourcePath": "p/1-4cyli.dat",
+      "title": "Cylinder 0.25",
+      "sha256": "5a7168952a5a3570327873b9a5802fa7b3be40967ab78c03b6a2bfd4419a1f10",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 1-4cyli.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-03-23 [sbliss] Added BFC statement.",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2007-06-22 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "p/1-4cylo.dat",
+      "title": "Cylinder Open 0.25",
+      "sha256": "792a01362608c3f385dd7f01a1bd7d19cf9ed8a40f793266345cc86d1d98f3af",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 1-4cylo.dat",
+        "0 Author: Max Martin Richter [MMR1988]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03"
+      ]
+    },
+    {
+      "sourcePath": "p/1-4cyls.dat",
+      "title": "Cylinder Sloped 0.25",
+      "sha256": "aaee6ffe6e4a191d6cad4496677132eb0349303d6e48c13c7a2240dcea1db621",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 1-4cyls.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1998-12-15 [PTadmin] Official Update 1998-10",
+        "0 !HISTORY 2002-07-03 [sbliss] Added BFC statement",
+        "0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04",
+        "0 !HISTORY 2007-06-22 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "p/1-4cyls2.dat",
+      "title": "Cylinder Sloped 0.25 Convex",
+      "sha256": "77a3bf3859fa972a5d047721ef18603694f1a6f83543f955240990be9c9ee9bd",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 1-4cyls2.dat",
+        "0 Author: Chris Dee [cwdee]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01",
+        "0 !HISTORY 2002-07-03 [sbliss] Added BFC statement, reformatted title to fit 0.27 convention",
+        "0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04",
+        "0 !HISTORY 2007-06-22 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "p/1-4disc.dat",
+      "title": "Disc 0.25",
+      "sha256": "3b8faa77185c576085c38f37b13c6a04e2e889eea6a7dc8c4db2d1699a33bcda",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 1-4disc.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-03-23 [sbliss] Added BFC statement.",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2007-06-22 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01"
+      ]
+    },
+    {
+      "sourcePath": "p/1-4edge.dat",
+      "title": "Circle 0.25",
+      "sha256": "9ce2de7e67bbac575d52cfdc771b9d00856efc9b88002d97db8e665e50f4d467",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 1-4edge.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2007-06-22 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2017-01-15 [Steffen] BFCed",
+        "0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01"
+      ]
+    },
+    {
+      "sourcePath": "p/1-4ndis.dat",
+      "title": "Disc Negative 0.25",
+      "sha256": "ff6685838636e7ab6152356d8f09e4f00a38af0d878b0881423f5c45fb868f0c",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 1-4ndis.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-03-23 [sbliss] Added BFC Statement",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2007-06-22 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "p/1-4ring3.dat",
+      "title": "Ring  3 x 0.25",
+      "sha256": "4048b121d53509363cfaa7422648dd29b2eeb93074279feb0bcc7a45bbb7c2e1",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 1-4ring3.dat",
+        "0 Author: Willy Tschager [Holly-Wood]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05",
+        "0 !HISTORY 2003-01-21 [cavehop] Update Added BFC and 1 digit of significance",
+        "0 !HISTORY 2003-05-21 [cavehop] Corrected values as indicated by pneaster",
+        "0 !HISTORY 2003-06-12 [cavehop] Re-corrected values as indicated by pneaster",
+        "0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02",
+        "0 !HISTORY 2007-06-22 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01",
+        "0 !HISTORY 2024-01-04 [Holly-Wood] Complete re-write, original by Karim Nassar",
+        "0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01"
+      ]
+    },
+    {
+      "sourcePath": "p/1-4ring4.dat",
+      "title": "Ring  4 x 0.25",
+      "sha256": "6fed0ef17eaca407c7b17efc82bb7dc8860324b79817da345ebf32f7911dbbba",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 1-4ring4.dat",
+        "0 Author: Willy Tschager [Holly-Wood]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02",
+        "0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02",
+        "0 !HISTORY 2007-06-22 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01",
+        "0 !HISTORY 2024-01-06 [Holly-Wood] Complete regeneration, original by bbroich",
+        "0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01"
+      ]
+    },
+    {
+      "sourcePath": "p/1-4stud4.dat",
+      "title": "Stud Tube Open 0.25",
+      "sha256": "cc27fe29307676a8f46d25ad35304ce2e576f3c8bee81c20cb461c401512b58e",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 1-4stud4.dat",
+        "0 Author: Massimo Maso [Sirio]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01"
+      ]
+    },
+    {
+      "sourcePath": "p/1-8chrd.dat",
+      "title": "Chord 0.125",
+      "sha256": "7694157b725563188a6efd69b3f558b00533b375b8a4e82f469497a03e471e74",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 1-8chrd.dat",
+        "0 Author: Orion Pobursky [OrionP]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02",
+        "0 !HISTORY 2007-06-22 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2023-10-27 [OrionP] Rebuilt with PrimGen2, original author westrate",
+        "0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05"
+      ]
+    },
+    {
+      "sourcePath": "p/1-8cyli.dat",
+      "title": "Cylinder 0.125",
+      "sha256": "46def63dc8293ad9a2dd1d1a5cb720b9ba883850e65d3280d2093c664a6140c4",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 1-8cyli.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2004-12-11 [nielsk] Recreated using Primitive Generator, Edge lines fixed, BFC changed to CCW",
+        "0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01",
+        "0 !HISTORY 2007-06-22 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01"
+      ]
+    },
+    {
+      "sourcePath": "p/1-8cylo.dat",
+      "title": "Cylinder Open 0.125",
+      "sha256": "870bbbf6052e075598de7dce7efe7a139ea5189820e7a296442fe2b3318c18bf",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 1-8cylo.dat",
+        "0 Author: Tim Gould [timgould]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03"
+      ]
+    },
+    {
+      "sourcePath": "p/1-8edge.dat",
+      "title": "Circle 0.125",
+      "sha256": "50436a0bce461198c342dccbccb658a1bffae13e44b7c48689b158c946c2c2ab",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 1-8edge.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2007-06-22 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2017-01-15 [Steffen] BFCed",
+        "0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01"
+      ]
+    },
+    {
+      "sourcePath": "p/1-8ring3.dat",
+      "title": "Ring  3 x 0.125",
+      "sha256": "641f3ae7395e7d38e57ab918928ac19209ed72e8474fd1646e2d70f223c4a0ce",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 1-8ring3.dat",
+        "0 Author: Paul Easter [pneaster]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2007-06-22 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "p/1-8stud4.dat",
+      "title": "Stud Tube Open 0.125",
+      "sha256": "9395515b1e38008dab61d9a971d9564e36ea6fbe4a32a244c789e8e5a2a58f6d",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 1-8stud4.dat",
+        "0 Author: Massimo Maso [Sirio]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01"
+      ]
+    },
+    {
+      "sourcePath": "p/1-8tndis.dat",
+      "title": "Disc Negative Truncated 0.125",
+      "sha256": "5e3bd48d2e7565fc97a8936255339d9682897b43a38f69da43571f42a4a2248e",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 1-8tndis.dat",
+        "0 Author: Massimo Maso [Sirio]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02"
+      ]
+    },
+    {
+      "sourcePath": "p/2-4chrd.dat",
+      "title": "Chord 0.5",
+      "sha256": "3b0dfcf2cb881fae0acfe1e53b703104768878636477e540d0c893fc3fd87f8f",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 2-4chrd.dat",
+        "0 Author: Philippe Hurbain [Philo]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01"
+      ]
+    },
+    {
+      "sourcePath": "p/2-4cyli.dat",
+      "title": "Cylinder 0.5",
+      "sha256": "d486780f0f84893899d9eadcd13150f13a42e15e77a3cda38cdf24ded98862c6",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 2-4cyli.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-03-23 [sbliss] Added BFC statement; compacted code",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2004-12-11 [nielsk] Recreated using Primitive Generator, Edge lines fixed, BFC changed to CCW",
+        "0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01"
+      ]
+    },
+    {
+      "sourcePath": "p/2-4cylo.dat",
+      "title": "Cylinder Open 0.5",
+      "sha256": "4fa9f597d775c7f15e3fc66f60e20d914134d13004b485488b7dbff684776232",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 2-4cylo.dat",
+        "0 Author: Max Martin Richter [MMR1988]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03"
+      ]
+    },
+    {
+      "sourcePath": "p/2-4cyls.dat",
+      "title": "Cylinder Sloped 0.5",
+      "sha256": "0b0d6602c4a5d86542312f2428a6c384483eb435b9a0057ddde80de33ec7b441",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 2-4cyls.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1998-12-15 [PTadmin] Official Update 1998-10",
+        "0 !HISTORY 2002-05-08 [OrionP] Made BFC Compliant",
+        "0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "p/2-4disc.dat",
+      "title": "Disc 0.5",
+      "sha256": "1d4662b73e3196fadeb5ecf2fd27f3dbf7cecce0802cf3d7108ab67bb380eb15",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 2-4disc.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1998-12-15 [PTadmin] Official Update 1998-10",
+        "0 !HISTORY 2002-03-23 [sbliss] Added BFC statement",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01"
+      ]
+    },
+    {
+      "sourcePath": "p/2-4edge.dat",
+      "title": "Circle 0.5",
+      "sha256": "665400f76566b161c28303cdadce40d17d979a8ff9a8a133675af2d17fbe6763",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 2-4edge.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2017-01-15 [Steffen] BFCed",
+        "0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01"
+      ]
+    },
+    {
+      "sourcePath": "p/2-4ndis.dat",
+      "title": "Disc Negative 0.5",
+      "sha256": "7557eae598be3f530b840471535198e6b07b03486ffbcc18a00e862c3d25d925",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 2-4ndis.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-03-23 [sbliss] Added BFC statement; compacted code",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "p/2-4ring2.dat",
+      "title": "Ring  2 x 0.5",
+      "sha256": "dc1748fff34bb0cae3ba1d480921c2f73de4ea1d0532799356b2014a28c8f393",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 2-4ring2.dat",
+        "0 Author: Chris Dee [cwdee]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "p/2-4ring3.dat",
+      "title": "Ring  3 x 0.5",
+      "sha256": "045613f5bb90e0c283211b1fa261cc66f8ee8ab968dc9763222e7e592cbf83fc",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 2-4ring3.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1998-12-15 [PTadmin] Official Update 1998-10",
+        "0 !HISTORY 2003-01-21 [cavehop] Update Added BFC and some header info",
+        "0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01",
+        "0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "p/2-4stud4.dat",
+      "title": "Stud Tube Open 0.5",
+      "sha256": "7afa4b4fd96a1fab9ecf90c1828968b5997d311ec6eb32021d1ac30334d36c7e",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 2-4stud4.dat",
+        "0 Author: Willy Tschager [Holly-Wood]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2014-01-17 [Brickaneer] Created.",
+        "0 !HISTORY 2014-08-28 [MagFors] removed vertical edges",
+        "0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02",
+        "0 !HISTORY 2016-11-05 [cwdee] Update description",
+        "0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01",
+        "0 !HISTORY 2024-01-13 [Holly-Wood] Complete re-write, original by Brickaneer",
+        "0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01"
+      ]
+    },
+    {
+      "sourcePath": "p/3-16chrd.dat",
+      "title": "Chord 0.1875",
+      "sha256": "2bb493e8b5b56a5d63bfa7356a0ed5d6403a68e5e9a983e13a57541783ad19c1",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3-16chrd.dat",
+        "0 Author: Niels Karsdorp [nielsk]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01"
+      ]
+    },
+    {
+      "sourcePath": "p/3-16cyli.dat",
+      "title": "Cylinder 0.1875",
+      "sha256": "f50d12a37a22ae4a5f37a017b8e39d1e729577b0a4aa376ca685b210806b49c8",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3-16cyli.dat",
+        "0 Author: Mark Kennedy [mkennedy]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01",
+        "0 !HISTORY 2004-12-11 [nielsk] Recreated using Primitive Generator, Edge lines fixed, BFC changed to CCW",
+        "0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01"
+      ]
+    },
+    {
+      "sourcePath": "p/3-16cylo.dat",
+      "title": "Cylinder Open 0.1875",
+      "sha256": "a5c8370842299035a9cc14308301614c6fb169fb873a7950c888928cd8d9181c",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3-16cylo.dat",
+        "0 Author: J.C. Tchang [tchang]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01"
+      ]
+    },
+    {
+      "sourcePath": "p/3-16cyls.dat",
+      "title": "Cylinder Sloped 0.1875",
+      "sha256": "166309d0dba474780d13a812b58b952b790512f6036dbfb93cf43ab53401be0a",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3-16cyls.dat",
+        "0 Author: Niels Karsdorp [nielsk]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01"
+      ]
+    },
+    {
+      "sourcePath": "p/3-16cys2.dat",
+      "title": "Cylinder Sloped 0.1875 Convex",
+      "sha256": "705ec7384e735a8e7a864403831e55cb1e62f88ec09126a8b379b7e27288607a",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3-16cys2.dat",
+        "0 Author: Donald Sutter [technog]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01"
+      ]
+    },
+    {
+      "sourcePath": "p/3-16edge.dat",
+      "title": "Circle 0.1875",
+      "sha256": "c08dd83bb7fe90b61f7cd0b10ebef0d9a9ba33b497676dedd2e2e968cb8248f9",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3-16edge.dat",
+        "0 Author: Donald Sutter [technog]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2017-01-15 [Steffen] BFCed",
+        "0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01"
+      ]
+    },
+    {
+      "sourcePath": "p/3-16ndis.dat",
+      "title": "Disc Negative 0.1875",
+      "sha256": "abb7da370e72fe9e75faf5d10c637b476202dbd8ced9cb5b0f96433e1f72f529",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3-16ndis.dat",
+        "0 Author: Magnus Forsberg [MagFors]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01",
+        "0 !HISTORY 2024-01-03 [MagFors] Complete regeneration, original by guyvivan",
+        "0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01"
+      ]
+    },
+    {
+      "sourcePath": "p/3-16ring2.dat",
+      "title": "Ring  2 x 0.1875",
+      "sha256": "39481beacecc688590dff4d877e177657d133fbaee449ad60f346c18ccce3d3d",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3-16ring2.dat",
+        "0 Author: Philippe Hurbain [Philo]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03",
+        "0 !HISTORY 2024-03-23 [OrionP] Moved from 3-16rin2.dat",
+        "0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02"
+      ]
+    },
+    {
+      "sourcePath": "p/3-16ring3.dat",
+      "title": "Ring  3 x 0.1875",
+      "sha256": "3e0d8f9325ef96db0fa0a471240f810181a235736554c040a303f20d03294136",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3-16ring3.dat",
+        "0 Author: Philippe Hurbain [Philo]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01",
+        "0 !HISTORY 2024-03-23 [OrionP] Moved from 3-16rin3.dat",
+        "0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02"
+      ]
+    },
+    {
+      "sourcePath": "p/3-16stud4.dat",
+      "title": "Stud Tube Open 0.1875",
+      "sha256": "6dd3e7068ef5fe4ab07ae85e51eabfacef0886cdf0f38941618e5c36fa03e198",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3-16stud4.dat",
+        "0 Author: Massimo Maso [Sirio]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04",
+        "0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives",
+        "0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02"
+      ]
+    },
+    {
+      "sourcePath": "p/3-4cyli.dat",
+      "title": "Cylinder 0.75",
+      "sha256": "4a54732476cf4eaad2c9f7b40a3cef24db025132004328e4e84c0666cd217533",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3-4cyli.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-03-23 [sbliss] Added BFC statement; compacted code",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2004-12-11 [nielsk] Recreated using Primitive Generator, Edge lines fixed, BFC changed to CCW",
+        "0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01"
+      ]
+    },
+    {
+      "sourcePath": "p/3-4cylo.dat",
+      "title": "Cylinder Open 0.75",
+      "sha256": "b7ff6f92e06cea3815be42f757f17cd28350f2a4ff18dd1a11de0db3626ec44b",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3-4cylo.dat",
+        "0 Author: Philippe Hurbain [Philo]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02"
+      ]
+    },
+    {
+      "sourcePath": "p/3-4disc.dat",
+      "title": "Disc 0.75",
+      "sha256": "86c45014c54ad4c82fcf8a96553942c756e39e6b2b109aeccb9f47873f5f3f52",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3-4disc.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-03-23 [sbliss] Added BFC statement",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01"
+      ]
+    },
+    {
+      "sourcePath": "p/3-4edge.dat",
+      "title": "Circle 0.75",
+      "sha256": "d7f5aff979bc227b601abbb8e0226d6055d08eafb5faaf507b3055f712cd4c04",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3-4edge.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2017-01-15 [Steffen] BFCed",
+        "0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01"
+      ]
+    },
+    {
+      "sourcePath": "p/3-4ring3.dat",
+      "title": "Ring  3 x 0.75",
+      "sha256": "540acda3cc2567820cbba2ea67320bab8c80a99cc94d974cf70b58c1c32573cd",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3-4ring3.dat",
+        "0 Author: Willy Tschager [Holly-Wood]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2003-06-11 [pneaster] Corrected Values",
+        "0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01",
+        "0 !HISTORY 2024-01-14 [Holly-Wood] Complete regeneration, original by cavehop",
+        "0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01"
+      ]
+    },
+    {
+      "sourcePath": "p/3-4stud4.dat",
+      "title": "Stud Tube Open 0.75",
+      "sha256": "07a1e91dc4b6624fa88f269a74c42e4265784702bf4871412439ea98fc2adb48",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3-4stud4.dat",
+        "0 Author: Massimo Maso [Sirio]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01"
+      ]
+    },
+    {
+      "sourcePath": "p/3-8cyli.dat",
+      "title": "Cylinder 0.375",
+      "sha256": "9224d4e5edc6f5b0f75f6fa358fd1368a4fd65f676b74fe1bb6e3bbb05046206",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3-8cyli.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-05-08 [OrionP] Made BFC compliant",
+        "0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04",
+        "0 !HISTORY 2004-12-11 [nielsk] Recreated using Primitive Generator, Edge lines fixed, BFC changed to CCW",
+        "0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01"
+      ]
+    },
+    {
+      "sourcePath": "p/4-4con1.dat",
+      "title": "Cone  1 x 1.0",
+      "sha256": "b7e91225acedda94bfcf36dee83212c6b7ab845e435a375b595dc754e3fda6a7",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 4-4con1.dat",
+        "0 Author: Steve Bliss [sbliss]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1999-08-19 [sbliss] Renamed 4-4con12.dat to 4-4con1.dat, Moved all conditional lines before quads",
+        "0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01",
+        "0 !HISTORY 2002-12-11 [cwdee] Standardised title and made BFC compliant",
+        "0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW, reordered",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "p/4-4cylc.dat",
+      "title": "Cylinder Closed 1.0",
+      "sha256": "0183cffc7f56a2f3e5e3511f0d07ac484d3039c2d41bee802a94344ec95ec8bd",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 4-4cylc.dat",
+        "0 Author: Alex Taylor [anathema]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2008-12-29 [cwdee] Removed one disc",
+        "0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02"
+      ]
+    },
+    {
+      "sourcePath": "p/4-4cyli.dat",
+      "title": "Cylinder 1.0",
+      "sha256": "4a742c2765b6ebf98245baaf8a160a4ff587fc93d36c8ee2b9074712a2f968c4",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 4-4cyli.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1998-12-15 [PTadmin] Official Update 1998-10",
+        "0 !HISTORY 2002-03-23 [sbliss] Added BFC statement; merged headers from files in distributions LDraw 0.27 and Complete.",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2004-12-14 [guyvivan] BFC CCW",
+        "0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01"
+      ]
+    },
+    {
+      "sourcePath": "p/4-4cylo.dat",
+      "title": "Cylinder Open 1.0",
+      "sha256": "d6ca97ee2e75918b3309a5c88aafcd2455b3a316f7cef8963517c19f1d86b38f",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 4-4cylo.dat",
+        "0 Author: Mark Kennedy [mkennedy]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01"
+      ]
+    },
+    {
+      "sourcePath": "p/4-4cyls.dat",
+      "title": "Cylinder Sloped 1.0",
+      "sha256": "eb26a554261899f82fda150ee70827a010b7d29206b5b577b2ee5831851d8f29",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 4-4cyls.dat",
+        "0 Author: Donald Sutter [technog]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "p/4-4cylse.dat",
+      "title": "Cylinder Sloped 1.0 with Edge",
+      "sha256": "3c2c53a4ffd03dba04d3410b11763a020c603eefaf5ab425c282fb18744692c8",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 4-4cylse.dat",
+        "0 Author: Willy Tschager [Holly-Wood]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02",
+        "0 !HISTORY 2022-12-04 [SwampKryakwa] Combination of cyls and edge instead of pure geometry",
+        "0 !HISTORY 2023-03-05 [OrionP] Official Update 2023-01",
+        "0 !HISTORY 2024-01-14 [Holly-Wood] Complete re-write, original by Brickaneer",
+        "0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01"
+      ]
+    },
+    {
+      "sourcePath": "p/4-4disc.dat",
+      "title": "Disc 1.0",
+      "sha256": "a00b5547776f61a7389d303616987c76b3c4de86ad8ec32f22857e1bd5e5e40f",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 4-4disc.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1998-12-15 [PTadmin] Official Update 1998-10",
+        "0 !HISTORY 2002-03-23 [sbliss] Added BFC statement",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01"
+      ]
+    },
+    {
+      "sourcePath": "p/4-4edge.dat",
+      "title": "Circle 1.0",
+      "sha256": "54a52196e421fd1717d291ff52ea57553b1fb238907c1678cc1f1a84c698b1da",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 4-4edge.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1998-12-15 [PTadmin] Official Update 1998-10",
+        "0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2017-01-15 [Steffen] BFCed",
+        "0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01"
+      ]
+    },
+    {
+      "sourcePath": "p/4-4ndis.dat",
+      "title": "Disc Negative 1.0",
+      "sha256": "21202dc15823f4336bc2544244d0b539b76745c89f7a59ad18cdd03ad45cc543",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 4-4ndis.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-03-23 [sbliss] Added BFC statement; compacted code",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "p/4-4ring1.dat",
+      "title": "Ring  1 x 1.0",
+      "sha256": "4ae21061a6d0c9c80c608decb750f16fe1d113d84e08ef2f6082bcbb0f55194c",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 4-4ring1.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1998-12-15 [PTadmin] Official Update 1998-10",
+        "0 !HISTORY 2002-04-08 [BrickCaster] Modified for BFC compliance",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2008-08-26 [cwdee] Switch polygon winding and rename",
+        "0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01"
+      ]
+    },
+    {
+      "sourcePath": "p/4-4ring2.dat",
+      "title": "Ring  2 x 1.0",
+      "sha256": "6fb38804b1f5e9bee8c0b80caf1397b09454fc58b048dc19045b6f37c8762ab0",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 4-4ring2.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1998-12-15 [PTadmin] Official Update 1998-10",
+        "0 !HISTORY 2002-04-05 [hafhead] Added BFC statement",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2008-08-26 [cwdee] Switch polygon winding and rename",
+        "0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01"
+      ]
+    },
+    {
+      "sourcePath": "p/4-4ring3.dat",
+      "title": "Ring  3 x 1.0",
+      "sha256": "1f2835ac308154edc2d6f479d8e742a55be981f6167b20bfa100c195bc0731dd",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 4-4ring3.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1998-12-15 [PTadmin] Official Update 1998-10",
+        "0 !HISTORY 2002-04-05 [hafhead] Added BFC statement",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2008-08-26 [cwdee] Switch polygon winding and rename",
+        "0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01"
+      ]
+    },
+    {
+      "sourcePath": "p/4-4ring4.dat",
+      "title": "Ring  4 x 1.0",
+      "sha256": "e046737f05ca843c7fc32bbfe9f5b26f3409c5b42b786d8809aa789faf761154",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 4-4ring4.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1998-12-15 [PTadmin] Official Update 1998-10",
+        "0 !HISTORY 2002-04-08 [BrickCaster] Modified for BFC compliance",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2008-08-26 [cwdee] Switch polygon winding and rename",
+        "0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01"
+      ]
+    },
+    {
+      "sourcePath": "p/4-4ring8.dat",
+      "title": "Ring  8 x 1.0",
+      "sha256": "4d7ae146c56385df78fb08391c29f72a106355ffe4b7be472461899ebff840ca",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 4-4ring8.dat",
+        "0 Author: Steffen [Steffen]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "p/4-4ring9.dat",
+      "title": "Ring  9 x 1.0",
+      "sha256": "f1b98f891616369b58e4ff5d25ba9598ff7ef71b63e72cf3c500e72540390efb",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 4-4ring9.dat",
+        "0 Author: Magnus Forsberg [MagFors]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2024-01-04 [MagFors] Complete regeneration, original by jriley",
+        "0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01"
+      ]
+    },
+    {
+      "sourcePath": "p/48/1-12chrd.dat",
+      "title": "Hi-Res Chord 0.0833",
+      "sha256": "fe2a0252d971dc65126755c4fdb7db900e229dfdce712b42ce9510c7b0390e26",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\1-12chrd.dat",
+        "0 Author: Willy Tschager [Holly-Wood]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01",
+        "0 !HISTORY 2024-01-09 [Holly-Wood] Complete re-write, original by westrate",
+        "0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01"
+      ]
+    },
+    {
+      "sourcePath": "p/48/1-12cyli.dat",
+      "title": "Hi-Res Cylinder 0.0833",
+      "sha256": "a645a42a5ed912a059a9336ab1449d02efd067008f034549cc8c5ae488159fd3",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\1-12cyli.dat",
+        "0 Author: Willy Tschager [Holly-Wood]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01",
+        "0 !HISTORY 2024-01-08 [Holly-Wood] Complete regeneration, original by westrate",
+        "0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01"
+      ]
+    },
+    {
+      "sourcePath": "p/48/1-12edge.dat",
+      "title": "Hi-Res Circle 0.0833",
+      "sha256": "c1320fa098058f1bb4bb73a4bd02a9533bdcc4f22ac4a0f0a1dcd5cdf85deaed",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\1-12edge.dat",
+        "0 Author: Willy Tschager [Holly-Wood]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01",
+        "0 !HISTORY 2024-01-07 [Holly-Wood] Complete regeneration, original by westrate",
+        "0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01"
+      ]
+    },
+    {
+      "sourcePath": "p/48/1-12tndis.dat",
+      "title": "Hi-Res Disc Negative Truncated 0.0833",
+      "sha256": "3f529632b6b106417845f683f40f3666b191e421233e9ffebc6d8b89e6b0767b",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\1-12tndis.dat",
+        "0 Author: Magnus Forsberg [MagFors]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05"
+      ]
+    },
+    {
+      "sourcePath": "p/48/1-24chrd.dat",
+      "title": "Hi-Res Chord 0.0417",
+      "sha256": "9c1442d69aa0acfe4de87e4b9cdce8b164c88289640c9aa980afafb7b4aabd74",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\1-24chrd.dat",
+        "0 Author: Alex Taylor [anathema]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01"
+      ]
+    },
+    {
+      "sourcePath": "p/48/1-24edge.dat",
+      "title": "Hi-Res Circle 0.0417",
+      "sha256": "0946112b54d72f44d95d9f48b652bec53468f05eaacb2503ca09f58bee518e04",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\1-24edge.dat",
+        "0 Author: Willy Tschager [Holly-Wood]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01",
+        "0 !HISTORY 2010-01-11 [cwdee] Correct description dimension",
+        "0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01",
+        "0 !HISTORY 2024-01-09 [Holly-Wood] Complete regeneration, original by SirBugge",
+        "0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01"
+      ]
+    },
+    {
+      "sourcePath": "p/48/1-24tndis.dat",
+      "title": "Hi-Res Disc Negative Truncated 0.0417",
+      "sha256": "d5a37a734ec0b3fd1a81f4ac1858e8bc32639740a5be442a2a41a5173e30c36c",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\1-24tndis.dat",
+        "0 Author: Philippe Hurbain [Philo]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2023-08-25 [OrionP] Official Update 2023-04",
+        "0 !HISTORY 2023-12-07 [MagFors] Update description",
+        "0 !HISTORY 2023-12-31 [OrionP] Official Update 2023-07"
+      ]
+    },
+    {
+      "sourcePath": "p/48/1-4cyli.dat",
+      "title": "Hi-Res Cylinder 0.25",
+      "sha256": "e2ed297feaf608b7319c2e54cd81dcb653fbb3d87b5a8e48ab2f54b32953fc6b",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\1-4cyli.dat",
+        "0 Author: Magnus Forsberg [MagFors]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05",
+        "0 !HISTORY 2002-02-28 [hafhead] Added BFC statement",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2008-07-07 [guyvivan] Made BFC'ed CCW (2005-12-06)",
+        "0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01",
+        "0 !HISTORY 2024-01-03 [MagFors] Complete regeneration, original by Manfred Moolhuysen",
+        "0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01"
+      ]
+    },
+    {
+      "sourcePath": "p/48/1-4edge.dat",
+      "title": "Hi-Res Circle 0.25",
+      "sha256": "e4ebabd21711f16411b3c8b8b278995a56c5f25919cd424976357da5b19943c6",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\1-4edge.dat",
+        "0 Author: Magnus Forsberg [MagFors]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2010-03-17 [MagFors] Updated description",
+        "0 !HISTORY 2010-05-21 [mikeheide] BFC'ed and compacted numbers (saved 10% filesize)",
+        "0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02",
+        "0 !HISTORY 2024-01-02 [MagFors] Complete regeneration, original by Manfred Moolhuysen",
+        "0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01"
+      ]
+    },
+    {
+      "sourcePath": "p/48/1-6edge.dat",
+      "title": "Hi-Res Circle 0.1667",
+      "sha256": "91d8e78d97ae0ae1e0a21d7b1c7d2e50ee931d9eee798b3f9d0cff5034369ab9",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\1-6edge.dat",
+        "0 Author: Mark Kennedy [mkennedy]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-01-15 [MagFors] title changed from Edge to Circle",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "p/48/1-8aring.dat",
+      "title": "Adapter Ring Hi-Res to Normal 0.125",
+      "sha256": "d7fc4285db4b723317c19faee6b845b5ae53872242431352bd792fb955e56948",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\1-8aring.dat",
+        "0 Author: Gerald Lasser [GeraldLasser]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03",
+        "0 !HISTORY 2024-02-07 [Holly-Wood] Changed 'Adaptor' to 'Adapter' in description",
+        "0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02"
+      ]
+    },
+    {
+      "sourcePath": "p/48/1-8chrd.dat",
+      "title": "Hi-Res Chord 0.125",
+      "sha256": "282b0d7dd4e73d273b9cbcce88e30889cce3b44aa8574a25382fe526248d5426",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\1-8chrd.dat",
+        "0 Author: Willy Tschager [Holly-Wood]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01",
+        "0 !HISTORY 2024-01-04 [Holly-Wood] Complete re-write, original by guyvivan",
+        "0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01"
+      ]
+    },
+    {
+      "sourcePath": "p/48/1-8con12.dat",
+      "title": "Hi-Res Cone 12 x 0.125",
+      "sha256": "8f6815804494d04eb36c0408495bb40804b73a41fbb979032701c41b087dc401",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\1-8con12.dat",
+        "0 Author: Philippe Hurbain [Philo]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03"
+      ]
+    },
+    {
+      "sourcePath": "p/48/1-8con2.dat",
+      "title": "Hi-Res Cone  2 x 0.125",
+      "sha256": "62f9108578e3ed674de992eb5add946fa0e0697598232621c710d03507bc499d",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\1-8con2.dat",
+        "0 Author: Philippe Hurbain [Philo]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2024-08-26 [OrionP] Official Update 2024-07"
+      ]
+    },
+    {
+      "sourcePath": "p/48/1-8cyli.dat",
+      "title": "Hi-Res Cylinder 0.125",
+      "sha256": "494069ca353e41885bf8f5b6b3ddc9b62aabeca3eedfe6aa5597ac8f12ca12b9",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\1-8cyli.dat",
+        "0 Author: Steve Bliss [sbliss]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01",
+        "0 !HISTORY 2004-10-12 [sbliss] fixed title, BFC'ed",
+        "0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01"
+      ]
+    },
+    {
+      "sourcePath": "p/48/1-8cylo.dat",
+      "title": "Hi-Res Cylinder Open 0.125",
+      "sha256": "bc5df94184d568c4b032959d7ec8fb138adc17acf14d8f9b4d41b69e96bc9f5f",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\1-8cylo.dat",
+        "0 Author: Max Martin Richter [MMR1988]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01"
+      ]
+    },
+    {
+      "sourcePath": "p/48/1-8edge.dat",
+      "title": "Hi-Res Circle 0.125",
+      "sha256": "eec30153f06bac336ca71ae16b31c5d0c7ae432acb5e91befe37fdb7b6bb1c8e",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\1-8edge.dat",
+        "0 Author: [PTadmin]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02",
+        "0 !HISTORY 2007-10-13 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2017-01-17 [Steffen] added BFC CERTIFY statement",
+        "0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01"
+      ]
+    },
+    {
+      "sourcePath": "p/48/1-8tang.dat",
+      "title": "Hi-Res Disc Negative Tangent 0.125",
+      "sha256": "a48fdfb9852b080f49f0190af8b8a545088a566a891f3f88007800281d5f3de8",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\1-8tang.dat",
+        "0 Author: Willy Tschager [Holly-Wood]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03",
+        "0 !HISTORY 2024-01-26 [Holly-Wood] Complete re-write, original by ishkafel",
+        "0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01"
+      ]
+    },
+    {
+      "sourcePath": "p/48/4-4con10.dat",
+      "title": "Hi-Res Cone 10 x 1.0",
+      "sha256": "ef79e670223faff8d8d8ae3b75ef01f57530563a53aef337dd770032e29ba8a7",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\4-4con10.dat",
+        "0 Author: Willy Tschager [Holly-Wood]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01",
+        "0 !HISTORY 2024-01-25 [Holly-Wood] Complete regeneration, original by guyvivan",
+        "0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01"
+      ]
+    },
+    {
+      "sourcePath": "p/48/4-4con19.dat",
+      "title": "Hi-Res Cone 19 x 1.0",
+      "sha256": "daa8b75230a36b655fce95bcecfbe423dc5117a9f16a259b82c7fdc1fd636867",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\4-4con19.dat",
+        "0 Author: Mark Kennedy [mkennedy]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01"
+      ]
+    },
+    {
+      "sourcePath": "p/48/4-4con2.dat",
+      "title": "Hi-Res Cone  2 x 1.0",
+      "sha256": "003fe131e9bb5cecefcdea0b7cea9c5e28c3093fd9060ffe61a6281378cfc275",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\4-4con2.dat",
+        "0 Author: Niels Karsdorp [nielsk]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-27 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02"
+      ]
+    },
+    {
+      "sourcePath": "p/48/4-4cyli.dat",
+      "title": "Hi-Res Cylinder 1.0",
+      "sha256": "6c466cd94f69ecdb3a5a83faee52ad2e5ecd9d1560975feaf854c3433de6e6a2",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\4-4cyli.dat",
+        "0 Author: Paul Easter [pneaster]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-27 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02"
+      ]
+    },
+    {
+      "sourcePath": "p/48/4-4cylo.dat",
+      "title": "Hi-Res Cylinder Open 1.0",
+      "sha256": "ce018b080f8d657ed514164b995e119e9ea104a03cd84e6a6f736b40f58252a6",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\4-4cylo.dat",
+        "0 Author: Philippe Hurbain [Philo]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01"
+      ]
+    },
+    {
+      "sourcePath": "p/48/4-4edge.dat",
+      "title": "Hi-Res Circle 1.0",
+      "sha256": "db8fd751c8c6b1f72211903adbff3aa90be6808cc4fcff391f1c320adced5da7",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\4-4edge.dat",
+        "0 Author: Paul Easter [pneaster]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-01-15 [MagFors] BFC'ed, title changed from Edge to Circle",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "p/48/4-4ring17.dat",
+      "title": "Hi-Res Ring 17 x 1.0",
+      "sha256": "7710b22eb917ca14083f0acdf8de4a3d3c380d9ab1adad4a869ca70778738fb7",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\4-4ring17.dat",
+        "0 Author: Willy Tschager [Holly-Wood]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03",
+        "0 !HISTORY 2024-01-20 [Holly-Wood] Complete regeneration, original by guyvivan",
+        "0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02"
+      ]
+    },
+    {
+      "sourcePath": "p/48/4-4ring18.dat",
+      "title": "Hi-Res Ring 18 x 1.0",
+      "sha256": "72d3ac2c30dc84f7f503633895e7fff3375d6c8cdd8d7dfb394e61a98a8b53c7",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\4-4ring18.dat",
+        "0 Author: Willy Tschager [Holly-Wood]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02",
+        "0 !HISTORY 2024-01-18 [Holly-Wood] Complete regeneration, original by guyvivan",
+        "0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02"
+      ]
+    },
+    {
+      "sourcePath": "p/48/4-4ring26.dat",
+      "title": "Hi-Res Ring 26 x 1.0",
+      "sha256": "a5003ff346228c1e9545ac407bf7d2de8c29a7a9ecd0a59dd0f2612489c724c0",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\4-4ring26.dat",
+        "0 Author: Willy Tschager [Holly-Wood]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03",
+        "0 !HISTORY 2024-01-26 [Holly-Wood] Complete regeneration, original by guyvivan",
+        "0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02"
+      ]
+    },
+    {
+      "sourcePath": "p/48/4-4ring6.dat",
+      "title": "Hi-Res Ring  6 x 1.0",
+      "sha256": "58a64c659a70b3c371b5b8e8b3716fdf954139e97ce2fa09518b950e59559e34",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\4-4ring6.dat",
+        "0 Author: Willy Tschager [Holly-Wood]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01",
+        "0 !HISTORY 2024-01-18 [Holly-Wood] Complete regeneration, original by guyvivan",
+        "0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01"
+      ]
+    },
+    {
+      "sourcePath": "p/48/4-4ring7.dat",
+      "title": "Hi-Res Ring  7 x 1.0",
+      "sha256": "afe4ae91ffbc13005537546fee3b46f3a56c9b66a4ef77b80da4b1667ec9a53d",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48\\4-4ring7.dat",
+        "0 Author: Mark Kennedy [mkennedy]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-27 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02"
+      ]
+    },
+    {
+      "sourcePath": "p/5-8cyli.dat",
+      "title": "Cylinder 0.625",
+      "sha256": "91679da1ed677f4273989f784e212d4a3f332cb4bee317617682b216f6aaf284",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 5-8cyli.dat",
+        "0 Author: Mark Kennedy [mkennedy]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02",
+        "0 !HISTORY 2004-12-11 [nielsk] Recreated using Primitive Generator, Edge lines fixed, BFC changed to CCW",
+        "0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01"
+      ]
+    },
+    {
+      "sourcePath": "p/5-8edge.dat",
+      "title": "Circle 0.625",
+      "sha256": "ecac980b3e5486dda1363611cd2cbba5e3309b2fccc255363b6d9858f00ce583",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 5-8edge.dat",
+        "0 Author: Mark Kennedy [mkennedy]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02",
+        "0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2017-01-15 [Steffen] BFCed",
+        "0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01"
+      ]
+    },
+    {
+      "sourcePath": "p/8/4-4cyli.dat",
+      "title": "Cylinder 1.0",
+      "sha256": "1a45aa228d8729c534343dc9400902740851f6fbc7458a23c526cbe9fc2c7a0a",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 8\\4-4cyli.dat",
+        "0 Author: Philippe Hurbain [Philo]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01"
+      ]
+    },
+    {
+      "sourcePath": "p/8/4-4cylo.dat",
+      "title": "Lo-Res Cylinder Open 1.0",
+      "sha256": "d7bb04bf4bf11a7e711d833f4767019b48ea6228e8f560347eb13cfc4705f96a",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 8\\4-4cylo.dat",
+        "0 Author: Philippe Hurbain [Philo]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03"
+      ]
+    },
+    {
+      "sourcePath": "p/8/4-4disc.dat",
+      "title": "Disc 1.0",
+      "sha256": "fc1929e39a99e6937591bb52b25f0e33ff66c6e03a1110e946d34fbaa7262866",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 8\\4-4disc.dat",
+        "0 Author: Philippe Hurbain [Philo]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01"
+      ]
+    },
+    {
+      "sourcePath": "p/8/4-4edge.dat",
+      "title": "Circle 1.0",
+      "sha256": "af15f29b74742a37356fed18a64c005e053980b391aa743ea1c52f56388c0487",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 8\\4-4edge.dat",
+        "0 Author: Philippe Hurbain [Philo]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01"
+      ]
+    },
+    {
+      "sourcePath": "p/8/4-4ndis.dat",
+      "title": "Lo-Res Disc Negative 1.0",
+      "sha256": "a8321d00c811a662aec9dd26cbb16e825e1ccf2696e70157a784e15ac4f951b5",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 8\\4-4ndis.dat",
+        "0 Author: Magnus Forsberg [MagFors]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02"
+      ]
+    },
+    {
+      "sourcePath": "p/axl3hole.dat",
+      "title": "Technic Axle Hole Semi-Reduced",
+      "sha256": "eb2369c61af0f2e3c2bf85f0f23ca92d5d313719941f0f8ff4eabde4b131ba7e",
+      "creditsAndLicenseHeaders": [
+        "0 Name: axl3hole.dat",
+        "0 Author: J.C. Tchang [tchang]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01"
+      ]
+    },
+    {
+      "sourcePath": "p/axl5ho10.dat",
+      "title": "Technic Axle Hole Rounded Tooth Surface",
+      "sha256": "5658b3df4183184a5d5104624ff85b3048a658972991b1dfc489dc05728278ba",
+      "creditsAndLicenseHeaders": [
+        "0 Name: axl5ho10.dat",
+        "0 Author: Magnus Forsberg [MagFors]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01"
+      ]
+    },
+    {
+      "sourcePath": "p/axl5hol8.dat",
+      "title": "Technic Axle Hole Rounded Perimeter",
+      "sha256": "95b2d384c0697cd5dd4ebcc9fd4ab2d005307af5aa611bea20ce832a91f8bc68",
+      "creditsAndLicenseHeaders": [
+        "0 Name: axl5hol8.dat",
+        "0 Author: Magnus Forsberg [MagFors]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01"
+      ]
+    },
+    {
+      "sourcePath": "p/axl5hol9.dat",
+      "title": "Technic Axle Hole Rounded Tooth Outer Edges",
+      "sha256": "d46a457be819e6b46b7fc85f8610b8850e0d0a40556c65b74dbda04179b68a20",
+      "creditsAndLicenseHeaders": [
+        "0 Name: axl5hol9.dat",
+        "0 Author: Magnus Forsberg [MagFors]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01"
+      ]
+    },
+    {
+      "sourcePath": "p/axlehol2.dat",
+      "title": "Technic Axle Hole Side Edges",
+      "sha256": "9d3e161068b049c3a21fbb8c0970d8264215c08bfcefd3508b8bbff47974a319",
+      "creditsAndLicenseHeaders": [
+        "0 Name: axlehol2.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-11-08 [OrionP] Adjusted fit and precision",
+        "0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2021-12-24 [MagFors] rounded to four decimals",
+        "0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02"
+      ]
+    },
+    {
+      "sourcePath": "p/axlehol3.dat",
+      "title": "Technic Axle Hole Tooth Outer Edges",
+      "sha256": "81caa1e48cb356fd74575f2a37a4422d75cafb930fae19182783f48381e48d2f",
+      "creditsAndLicenseHeaders": [
+        "0 Name: axlehol3.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-11-08 [OrionP] Adjusted fit and precision",
+        "0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2021-12-24 [MagFors] rounded to four decimals",
+        "0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02"
+      ]
+    },
+    {
+      "sourcePath": "p/axlehole.dat",
+      "title": "Technic Axle Hole Closed",
+      "sha256": "8dfcdd5058a66fba2ea4f59ddc7fd4510118baca9f745e5dfe341ccf0e24b49e",
+      "creditsAndLicenseHeaders": [
+        "0 Name: axlehole.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2000-04-23 [sbliss] Added conditional edges along outermost diameters",
+        "0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01",
+        "0 !HISTORY 2002-05-08 [OrionP] Made BFC compliant",
+        "0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04",
+        "0 !HISTORY 2002-11-08 [OrionP] Adjusted fit and precision",
+        "0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01",
+        "0 !HISTORY 2005-05-15 [guyvivan] Use 1-8chrd.dat primitive and made BFC'ed CCW",
+        "0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2021-03-25 [Sirio] Added adapter rings and rounded to four decimals",
+        "0 !HISTORY 2021-12-20 [MagFors] Reshaped the hole",
+        "0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02"
+      ]
+    },
+    {
+      "sourcePath": "p/box.dat",
+      "title": "Box 6 (six faces)",
+      "sha256": "a1dd11c88627c1a6bfe28119c235dcdad25471c5f8aa948ead850397b939a7c3",
+      "creditsAndLicenseHeaders": [
+        "0 Name: box.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-08-22 [sbliss] Applied BFC",
+        "0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01"
+      ]
+    },
+    {
+      "sourcePath": "p/box2-11.dat",
+      "title": "Box with 2 Faces without 11 Edges",
+      "sha256": "7f29fb8601b419207b5c855af8fad8abb55a967ec73f3d8be841d370c360b97c",
+      "creditsAndLicenseHeaders": [
+        "0 Name: box2-11.dat",
+        "0 Author: Steffen [Steffen]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01"
+      ]
+    },
+    {
+      "sourcePath": "p/box2-5.dat",
+      "title": "Box with 2 Faces without 5 Edges",
+      "sha256": "8f297b754f87da1dbe19eec8704a5ce03a23b794ccd7cd015508e3758a206174",
+      "creditsAndLicenseHeaders": [
+        "0 Name: box2-5.dat",
+        "0 Author: Steffen [Steffen]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01"
+      ]
+    },
+    {
+      "sourcePath": "p/box2-7.dat",
+      "title": "Box with  2 Faces without  7 Edges",
+      "sha256": "e0474c5ad7fb9ff77b67883a5b1e327d028e3eb4e59921a626b4215632dd9f00",
+      "creditsAndLicenseHeaders": [
+        "0 Name: box2-7.dat",
+        "0 Author: Willy Tschager [Holly-Wood]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01",
+        "0 !HISTORY 2024-01-02 [Holly-Wood] Complete re-write, original by guyvivan",
+        "0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01"
+      ]
+    },
+    {
+      "sourcePath": "p/box3-5a.dat",
+      "title": "Box with 3 Adjacent Faces without 5 Adjacent Edges",
+      "sha256": "7c6ca41f483553472e0fc63bb494ba1494918b28e511e2f179fbb5618f7240a3",
+      "creditsAndLicenseHeaders": [
+        "0 Name: box3-5a.dat",
+        "0 Author: Philippe Hurbain [Philo]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02"
+      ]
+    },
+    {
+      "sourcePath": "p/box3u2p.dat",
+      "title": "Box with 3 Faces without 2 Parallel Edges",
+      "sha256": "df73118b95f23d693c3b7d25c57c483db3bf61ae017d757848119955d28d59e0",
+      "creditsAndLicenseHeaders": [
+        "0 Name: box3u2p.dat",
+        "0 Author: Niels Karsdorp [nielsk]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "p/box3u4a.dat",
+      "title": "Box with 3 Faces without 4 Adjacent Edges",
+      "sha256": "15463f41f9947dd75486dc7af3231b1037704f1b654c2555e3ba705817a2db75",
+      "creditsAndLicenseHeaders": [
+        "0 Name: box3u4a.dat",
+        "0 Author: Niels Karsdorp [nielsk]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01"
+      ]
+    },
+    {
+      "sourcePath": "p/box3u7a.dat",
+      "title": "Box with 3 Faces without 7 Adjacent Edges",
+      "sha256": "3a5af83a6ab07628ca04494fee90617f459c9b88add044b1bbb96b7f386aeb0c",
+      "creditsAndLicenseHeaders": [
+        "0 Name: box3u7a.dat",
+        "0 Author: Chris Dee [cwdee]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02"
+      ]
+    },
+    {
+      "sourcePath": "p/box3u8p.dat",
+      "title": "Box with 3 Faces and 4 Parallel Edges",
+      "sha256": "0f6187106f023d041dcfd2a24e9f5a2a0c37b5c41b0ff171267ae776a8f16760",
+      "creditsAndLicenseHeaders": [
+        "0 Name: box3u8p.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-12-13 [hafhead] Made BFC compliant",
+        "0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "p/box4-1.dat",
+      "title": "Box with 4 Faces without 1 Edge",
+      "sha256": "2ed58df5da841827dfc5f9ac11c0bd7ffd8a455e46f166638e635f61a014b44d",
+      "creditsAndLicenseHeaders": [
+        "0 Name: box4-1.dat",
+        "0 Author: Tore Eriksson [Tore_Eriksson]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07",
+        "0 !HISTORY 2002-04-05 [hafhead] Made BFC compliant",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "p/box4-2p.dat",
+      "title": "Box with  4 Faces without  2 Parallel Edges",
+      "sha256": "a4cb5395b3ec8bba18d81e36c32f43cb9349a55fe97729c367afaa5e1e8b7f0f",
+      "creditsAndLicenseHeaders": [
+        "0 Name: box4-2p.dat",
+        "0 Author: Willy Tschager [Holly-Wood]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01",
+        "0 !HISTORY 2024-01-03 [Holly-Wood] Complete re-write, original by guyvivan",
+        "0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01"
+      ]
+    },
+    {
+      "sourcePath": "p/box4-4a.dat",
+      "title": "Box with  4 Faces without  4 Adjacent Edges",
+      "sha256": "58c69e00462c0a74c1bd6d75d757d826ae13e98bd3928b0e685209003bfbee54",
+      "creditsAndLicenseHeaders": [
+        "0 Name: box4-4a.dat",
+        "0 Author: Willy Tschager [Holly-Wood]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07",
+        "0 !HISTORY 2002-12-13 [hafhead] Made BFC compliant",
+        "0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01",
+        "0 !HISTORY 2024-01-03 [Holly-Wood] Complete re-write, original by Manfred Moolhuysen",
+        "0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01"
+      ]
+    },
+    {
+      "sourcePath": "p/box4.dat",
+      "title": "Box with 4 Faces (2 Parallel Pairs) and All Edges",
+      "sha256": "2cbfcf075ef5c87c6a5f543f837972a78d43274ac7771b92229b5fe5da797c1e",
+      "creditsAndLicenseHeaders": [
+        "0 Name: box4.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-04-03 [sbliss] Modified for BFC compliance",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "p/box4t.dat",
+      "title": "Box with 4 Adjacent Faces and All Edges",
+      "sha256": "9e85c281fff9c33ce26931d772310c8faeeaba4dca1036acf1e6ac578dc50c00",
+      "creditsAndLicenseHeaders": [
+        "0 Name: box4t.dat",
+        "0 Author: Tore Eriksson [Tore_Eriksson]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1997-09-29 [PTadmin] Official Update 1997-15",
+        "0 !HISTORY 2002-08-31 [izanette] Modified with WINDZ for BFC compliance",
+        "0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01"
+      ]
+    },
+    {
+      "sourcePath": "p/box5-1.dat",
+      "title": "Box with 5 Faces without 1 Edge",
+      "sha256": "c23e2cb13761c0af92c930af610075d82370a7f2ea89194fa808f0c4cf877bf2",
+      "creditsAndLicenseHeaders": [
+        "0 Name: box5-1.dat",
+        "0 Author: J.C. Tchang [tchang]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01"
+      ]
+    },
+    {
+      "sourcePath": "p/box5-4a.dat",
+      "title": "Box with  5 Faces without  4 Adjacent Edges",
+      "sha256": "70d5f7f2d0720b84a06100b12b449b8ad37d66a02fc4650b31d556d7b1d0fe41",
+      "creditsAndLicenseHeaders": [
+        "0 Name: box5-4a.dat",
+        "0 Author: Willy Tschager [Holly-Wood]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01",
+        "0 !HISTORY 2024-01-03 [Holly-Wood] Complete re-write, original by guyvivan",
+        "0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01"
+      ]
+    },
+    {
+      "sourcePath": "p/box5.dat",
+      "title": "Box with 5 Faces and All Edges",
+      "sha256": "ccb7b8a1d36692335b10ea6aa196849afcad4b15331683ed8112a10b50977318",
+      "creditsAndLicenseHeaders": [
+        "0 Name: box5.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-04-03 [sbliss] Modified for BFC compliance",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "p/boxjcyl4.dat",
+      "title": "Box to Cylinder Joint 1: 4",
+      "sha256": "ceb4a5fd46fbff7d2e396afbc308379b914b99556b30a136cfb578a3dc360877",
+      "creditsAndLicenseHeaders": [
+        "0 Name: boxjcyl4.dat",
+        "0 Author: Philippe Hurbain [Philo]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02",
+        "0 !HISTORY 2024-07-21 [Sirio] Removed wrong edge primitive, fixed Y-scale and precision of rects",
+        "0 !HISTORY 2024-07-29 [OrionP] Official Update 2024-06",
+        "0 !HISTORY 2024-08-03 [GeraldLasser] Using an unrotated edge prim for better results in Prim-Substition",
+        "0 !HISTORY 2024-08-26 [OrionP] Official Update 2024-07"
+      ]
+    },
+    {
+      "sourcePath": "p/empty.dat",
+      "title": "Empty",
+      "sha256": "192c9b9ee2e425cfbc9e9b12ff61ee0f05ae1cb0c12dc37d5590adb6abb65128",
+      "creditsAndLicenseHeaders": [
+        "0 Name: empty.dat",
+        "0 Author: Steffen [Steffen]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01",
+        "0 !HISTORY 2025-08-13 [OrionP] Fix comments",
+        "0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08"
+      ]
+    },
+    {
+      "sourcePath": "p/phandle1.dat",
+      "title": "Bar Handle Attachment with Open Side",
+      "sha256": "3cd5c4eca20ef297d265e4ba7228b04a5fb7f332b89f923ead8366987021d6e2",
+      "creditsAndLicenseHeaders": [
+        "0 Name: phandle1.dat",
+        "0 Author: Gerald Lasser [GeraldLasser]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06",
+        "0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives",
+        "0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02"
+      ]
+    },
+    {
+      "sourcePath": "p/rect.dat",
+      "title": "Rectangle",
+      "sha256": "ffeb2dd3d9b83c38841f18f1f74800fbba9e90c5fb6badfff2a795f08a96cb71",
+      "creditsAndLicenseHeaders": [
+        "0 Name: rect.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-04-05 [hafhead] Added BFC statement",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2010-01-17 [mikeheide] changed winding to CCW",
+        "0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01"
+      ]
+    },
+    {
+      "sourcePath": "p/rect1.dat",
+      "title": "Rectangle with 1 Edge",
+      "sha256": "48fdcd3181587b4bdc89d356a5aee21268688f3f2fcdd4d6f5c1a3d49b1a1ceb",
+      "creditsAndLicenseHeaders": [
+        "0 Name: rect1.dat",
+        "0 Author: Chris Dee [cwdee]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2010-01-17 [mikeheide] changed winding to CCW",
+        "0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01"
+      ]
+    },
+    {
+      "sourcePath": "p/rect2a.dat",
+      "title": "Rectangle with 2 Adjacent Edges",
+      "sha256": "6d75ffb88e705a35f34e095ec0848a7bb70b577a376fdae05804da214b0d6369",
+      "creditsAndLicenseHeaders": [
+        "0 Name: rect2a.dat",
+        "0 Author: Chris Dee [cwdee]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2010-01-17 [mikeheide] changed winding to CCW",
+        "0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01"
+      ]
+    },
+    {
+      "sourcePath": "p/rect2p.dat",
+      "title": "Rectangle with 2 Parallel Edges",
+      "sha256": "faac2b36241a9de0c0108471e59c45734df6c79813332d9cacf97f6391886acc",
+      "creditsAndLicenseHeaders": [
+        "0 Name: rect2p.dat",
+        "0 Author: Donald Sutter [technog]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2010-01-17 [mikeheide] changed winding to CCW",
+        "0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01"
+      ]
+    },
+    {
+      "sourcePath": "p/rect3.dat",
+      "title": "Rectangle with 3 Edges",
+      "sha256": "07ac46908b6668d993b6de0fb001a34cd996542106b80ebc7de63317d8dde865",
+      "creditsAndLicenseHeaders": [
+        "0 Name: rect3.dat",
+        "0 Author: Mark Kennedy [mkennedy]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2010-01-17 [mikeheide] Change winding to CCW",
+        "0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01"
+      ]
+    },
+    {
+      "sourcePath": "p/recte3.dat",
+      "title": "Rectangle Empty with 3 Edges",
+      "sha256": "e7f5ccbb040191aaa4cd469a25b086299cba4a3eaa8d3b0fbf71240e3de0359a",
+      "creditsAndLicenseHeaders": [
+        "0 Name: recte3.dat",
+        "0 Author: Steffen [Steffen]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01"
+      ]
+    },
+    {
+      "sourcePath": "p/recte4.dat",
+      "title": "Rectangle Empty with 4 Edges",
+      "sha256": "183b28b7586ffce3049e9248301668b4e16a84671b0f423efd792fb84a969dfe",
+      "creditsAndLicenseHeaders": [
+        "0 Name: recte4.dat",
+        "0 Author: Steffen [Steffen]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03"
+      ]
+    },
+    {
+      "sourcePath": "p/stud.dat",
+      "title": "Stud",
+      "sha256": "db037d518d7c08bcdc1f0e7497f4f98e97d99850531dd62d602965520f3bf8f4",
+      "creditsAndLicenseHeaders": [
+        "0 Name: stud.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-04-04 [sbliss] Modified for BFC compliance",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "p/stud10.dat",
+      "title": "Stud Truncated Laterally Curved 40D for Round  2 x  2 Parts",
+      "sha256": "f7dc3947e0f3b81fadffe6509c52723940dfd4d36e30049874d95784a864315a",
+      "creditsAndLicenseHeaders": [
+        "0 Name: stud10.dat",
+        "0 Author: Orion Pobursky [OrionP]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2004-01-06 [Steffen] Fixed Header",
+        "0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01",
+        "0 !HISTORY 2018-02-25 [MagFors] Corrected and added cond-lines",
+        "0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01",
+        "0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01"
+      ]
+    },
+    {
+      "sourcePath": "p/stud2.dat",
+      "title": "Stud Open",
+      "sha256": "5ed3702c7d7000bfac2906f12b74ae312c59194a8e3b504952820c826b51c810",
+      "creditsAndLicenseHeaders": [
+        "0 Name: stud2.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05",
+        "0 !HISTORY 2002-04-04 [sbliss] Modified for BFC compliance",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2009-06-21 [cwdee] Update ring references to 4-4ring",
+        "0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02"
+      ]
+    },
+    {
+      "sourcePath": "p/stud23.dat",
+      "title": "Stud Tube Open Square",
+      "sha256": "10b4d24d10a6c81cd1fd5df67b613a083edef0fc5b4b28848b4262b4240a9554",
+      "creditsAndLicenseHeaders": [
+        "0 Name: stud23.dat",
+        "0 Author: Philippe Hurbain [Philo]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02"
+      ]
+    },
+    {
+      "sourcePath": "p/stud2a.dat",
+      "title": "Stud Open without Base Edges",
+      "sha256": "61fbed54b085a30490045309778d1e2a6d95485e6558996b12674f848028d557",
+      "creditsAndLicenseHeaders": [
+        "0 Name: stud2a.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05",
+        "0 !HISTORY 2002-04-04 [sbliss] Modified for BFC compliance",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2009-06-21 [cwdee] Update ring references to 4-4ring",
+        "0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02"
+      ]
+    },
+    {
+      "sourcePath": "p/stud3.dat",
+      "title": "Stud Tube Solid",
+      "sha256": "d29e9160faeaf85b2b72a098e89a81f41e0082517a82065d7b1f149b5fd2addd",
+      "creditsAndLicenseHeaders": [
+        "0 Name: stud3.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-04-04 [sbliss] Modified for BFC compliance",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "p/stud3a.dat",
+      "title": "Stud Tube Solid without Base Edges",
+      "sha256": "91b1f54ed55b2f57dd73225da3198b5198e31f7587a5e8b7d3351b1478c8881c",
+      "creditsAndLicenseHeaders": [
+        "0 Name: stud3a.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-08-31 [izanette] Modified with WINDZ for BFC compliance",
+        "0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01"
+      ]
+    },
+    {
+      "sourcePath": "p/stud4.dat",
+      "title": "Stud Tube Open",
+      "sha256": "871cdcab26e7f5113488a24c453d6fabda75b275b06de592e0bfaad4292c12a3",
+      "creditsAndLicenseHeaders": [
+        "0 Name: stud4.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05",
+        "0 !HISTORY 2002-04-04 [sbliss] Modified for BFC compliance",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2009-06-21 [cwdee] Update ring references to 4-4ring",
+        "0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02"
+      ]
+    },
+    {
+      "sourcePath": "p/stud4a.dat",
+      "title": "Stud Tube Open without Base Edges",
+      "sha256": "29e414ab757f2a79073aa0d5d10c4c925da1fc239d20019d7615c06db612e2f6",
+      "creditsAndLicenseHeaders": [
+        "0 Name: stud4a.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05",
+        "0 !HISTORY 2002-04-04 [sbliss] Modified for BFC compliance",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2009-06-21 [cwdee] Update ring references to 4-4ring",
+        "0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02"
+      ]
+    },
+    {
+      "sourcePath": "p/stud4o.dat",
+      "title": "Stud Tube Open without Outer Cylinder",
+      "sha256": "827edfc93ece0c6898443bf247207e0a5182fcdaf30e1efb85285c9ab586e884",
+      "creditsAndLicenseHeaders": [
+        "0 Name: stud4o.dat",
+        "0 Author: Magnus Forsberg [MagFors]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02"
+      ]
+    },
+    {
+      "sourcePath": "p/stud4s.dat",
+      "title": "Stud Tube Open Sloped",
+      "sha256": "4cdb054167ab5b860990b20c84f7245b60b64b809a002fe909cc8e946a6708dc",
+      "creditsAndLicenseHeaders": [
+        "0 Name: stud4s.dat",
+        "0 Author: Willy Tschager [Holly-Wood]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02",
+        "0 !HISTORY 2024-01-18 [Holly-Wood] Complete rewrite, original by guyvivan",
+        "0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01"
+      ]
+    },
+    {
+      "sourcePath": "p/stug-1x4.dat",
+      "title": "Stud Group  1 x  4",
+      "sha256": "e88852b15ca37121e12f7052a234e4a90dc99a8c6d22d45e041f47103c2fb71c",
+      "creditsAndLicenseHeaders": [
+        "0 Name: stug-1x4.dat",
+        "0 Author: Steffen [Steffen]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01"
+      ]
+    },
+    {
+      "sourcePath": "p/stug-1x8.dat",
+      "title": "Stud Group  1 x  8",
+      "sha256": "e592fd59bdd7333f0430cdd7bebb0d25bfdb3f244af03a17b0be2861c62205b7",
+      "creditsAndLicenseHeaders": [
+        "0 Name: stug-1x8.dat",
+        "0 Author: Steffen [Steffen]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01"
+      ]
+    },
+    {
+      "sourcePath": "p/stug-2x1.dat",
+      "title": "Stud Group  2 x  1",
+      "sha256": "03d08cea230e892e1b6cbfe523c19b568a834c5888aac5c789d1fb8d6ee93d96",
+      "creditsAndLicenseHeaders": [
+        "0 Name: stug-2x1.dat",
+        "0 Author: Magnus Forsberg [MagFors]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01"
+      ]
+    },
+    {
+      "sourcePath": "p/stug-2x2.dat",
+      "title": "Stud Group  2 x  2",
+      "sha256": "16114159ea25719341a852d5403dc9982a6211f2fcb23f5c4c3eac05a2ad43f7",
+      "creditsAndLicenseHeaders": [
+        "0 Name: stug-2x2.dat",
+        "0 Author: Steffen [Steffen]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01",
+        "0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2011-07-01 [PTadmin] Renamed from stug2",
+        "0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01",
+        "0 !HISTORY 2012-02-16 [Philo] Changed to CCW",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "p/stug-3x3.dat",
+      "title": "Stud Group  3 x  3",
+      "sha256": "ec81497656a4a77a32cc09b131026c9882ab2da35944f701aa7575d43667d7f0",
+      "creditsAndLicenseHeaders": [
+        "0 Name: stug-3x3.dat",
+        "0 Author: Steve Bliss [sbliss]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01",
+        "0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2011-07-01 [PTadmin] Renamed from stug3",
+        "0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01"
+      ]
+    },
+    {
+      "sourcePath": "p/stug-4x4.dat",
+      "title": "Stud Group  4 x  4",
+      "sha256": "d167d3367e9d6346e217331f3d35c7b2700d1c87f35e87b40cb3a702afa90e54",
+      "creditsAndLicenseHeaders": [
+        "0 Name: stug-4x4.dat",
+        "0 Author: Tore Eriksson [Tore_Eriksson]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2004-10-31 [Steffen] used stug2.dat",
+        "0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01",
+        "0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2011-07-01 [PTadmin] Renamed from stug4",
+        "0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01"
+      ]
+    },
+    {
+      "sourcePath": "p/stug-5x5.dat",
+      "title": "Stud Group  5 x  5",
+      "sha256": "e2f3c9299dcda5ecb768de44b94fc9bc0bb436e501bc1e6ecd8a2b7eb5f73b21",
+      "creditsAndLicenseHeaders": [
+        "0 Name: stug-5x5.dat",
+        "0 Author: Michael Heidemann [mikeheide]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01",
+        "0 !HISTORY 2011-07-01 [PTadmin] Renamed from stug5",
+        "0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01"
+      ]
+    },
+    {
+      "sourcePath": "p/stug10-2x2.dat",
+      "title": "Stud Group Truncated Laterally Curved 40D for Round 2 x 2 Parts",
+      "sha256": "860d8586325b33654acf4b20d9275ff078955468eaf86af3c6d7adc624446512",
+      "creditsAndLicenseHeaders": [
+        "0 Name: stug10-2x2.dat",
+        "0 Author: Magnus Forsberg [MagFors]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01",
+        "0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01"
+      ]
+    },
+    {
+      "sourcePath": "p/stug3-1x3.dat",
+      "title": "Stud Tube Solid Group  1 x  3",
+      "sha256": "80f86a2ea87dfabc79c3daf963a14c7757caceea6b402ac4f2178a6088de08ac",
+      "creditsAndLicenseHeaders": [
+        "0 Name: stug3-1x3.dat",
+        "0 Author: Steffen [Steffen]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02"
+      ]
+    },
+    {
+      "sourcePath": "p/stug3-1x7.dat",
+      "title": "Stud Tube Solid Group  1 x  7",
+      "sha256": "381169c4592a6ed096c0011e06e6000c65200492fe6126b3aa9e6a51ae2ba244",
+      "creditsAndLicenseHeaders": [
+        "0 Name: stug3-1x7.dat",
+        "0 Author: Steffen [Steffen]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "p/stug3.dat",
+      "title": "~Moved to stug-3x3",
+      "sha256": "ab1e3dc6c68a4f8d4e63b03e12ba0965eb68aa896f7850fa25729601968787e1",
+      "creditsAndLicenseHeaders": [
+        "0 Name: stug3.dat",
+        "0 Author: [PTadmin]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01"
+      ]
+    },
+    {
+      "sourcePath": "p/stug4-1x5.dat",
+      "title": "Stud Tube Open Group  1 x  5",
+      "sha256": "7afbba4b66e5993938f452531c213e9bfd06744f7967460992cb31b4c5ac4191",
+      "creditsAndLicenseHeaders": [
+        "0 Name: stug4-1x5.dat",
+        "0 Author: Steffen [Steffen]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01"
+      ]
+    },
+    {
+      "sourcePath": "p/stug4.dat",
+      "title": "~Moved to stug-4x4",
+      "sha256": "977530a161304abc45fa2dbcac0e8a7df389d8ab3838a82702032a74dca9021f",
+      "creditsAndLicenseHeaders": [
+        "0 Name: stug4.dat",
+        "0 Author: [PTadmin]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01"
+      ]
+    },
+    {
+      "sourcePath": "p/stug5.dat",
+      "title": "~Moved to stug-5x5",
+      "sha256": "597146ce96a64ba1754d0ab57d7c7fa4acf700f27c4a54b5dad9d9fca63fb6c3",
+      "creditsAndLicenseHeaders": [
+        "0 Name: stug5.dat",
+        "0 Author: [PTadmin]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/15068.dat",
+      "title": "Slope Brick Curved  2 x  2 x  0.667",
+      "sha256": "511c620c73d116a9564248a4adb0f564b90f12f1428a4a9276b4bae4f9bd7e4c",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 15068.dat",
+        "0 Author: Owen Burgoyne [C3POwen]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/2412b.dat",
+      "title": "Tile  1 x  2 Grille with Groove",
+      "sha256": "a7e7b03fc76cad9d94eb7199721b929f95227b1f8a35add5b7c66ee1ba6dca57",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 2412b.dat",
+        "0 Author: Guy Vivan [guyvivan]",
+        "0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/24309.dat",
+      "title": "Slope Brick Curved  3 x  2",
+      "sha256": "3bfecce446b454d471443e343e12da6abde9d275ed1ab38b6bccd3c17805aa46",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 24309.dat",
+        "0 Author: Owen Burgoyne [C3POwen]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01",
+        "0 !HISTORY 2017-06-16 [ejboer] Subparted for patterns",
+        "0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02"
+      ]
+    },
+    {
+      "sourcePath": "parts/2431.dat",
+      "title": "Tile  1 x  4 with Groove",
+      "sha256": "8e5999a1352d8204101b2311ca435f88c7d7af20fb8214fa588e9bacd3942315",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 2431.dat",
+        "0 Author: Santeri Piippo [arezey]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02"
+      ]
+    },
+    {
+      "sourcePath": "parts/3001.dat",
+      "title": "Brick  2 x  4",
+      "sha256": "70968cb5e4baa92dc6a1939aca7526b8566a17dbea49da9b91182aa864e412c4",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3001.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-05-07 {unknown} BFC Certification",
+        "0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03",
+        "0 !HISTORY 2004-02-08 [Steffen] used s\\3001s01.dat",
+        "0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03",
+        "0 !HISTORY 2007-05-07 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/3010.dat",
+      "title": "Brick  1 x  4",
+      "sha256": "7d1cb3082199042666045d92388b3b3ab697f969268e87a6c001f80f92a2e0b2",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3010.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01",
+        "0 !HISTORY 2002-05-07 {unknown} BFC Certification",
+        "0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03",
+        "0 !HISTORY 2002-12-12 [hafhead] New subparted version",
+        "0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02",
+        "0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2025-09-27 [OrionP] Changed winding to CCW",
+        "0 !HISTORY 2025-09-29 [OrionP] Official Update 2025-09"
+      ]
+    },
+    {
+      "sourcePath": "parts/3022.dat",
+      "title": "Plate  2 x  2",
+      "sha256": "3cd09bfe626e751ad95eab0ea83e5f3adea81f05d34993a1c4bf432ee386fe25",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3022.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01",
+        "0 !HISTORY 2002-05-07 {unknown} BFC Certification",
+        "0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03",
+        "0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/3034.dat",
+      "title": "Plate  2 x  8",
+      "sha256": "035f4ac31ecad8943fd0ac6baa155c6ff38c75a4d8ef1083fb2afa48b166a845",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3034.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01",
+        "0 !HISTORY 2003-08-07 [jriley] BFCed",
+        "0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03",
+        "0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/3035.dat",
+      "title": "Plate  4 x  8",
+      "sha256": "325a0682753f92e97145d8e750cd86ac31af565a852554725f9bff27a1fd8cb8",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3035.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01",
+        "0 !HISTORY 2004-07-26 [guyvivan] Made BFC Compliant",
+        "0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04",
+        "0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2025-09-27 [OrionP] Changed winding to CCW",
+        "0 !HISTORY 2025-09-29 [OrionP] Official Update 2025-09"
+      ]
+    },
+    {
+      "sourcePath": "parts/30355.dat",
+      "title": "Wing  6 x 12 Left",
+      "sha256": "362db433aede9c8c0089da37f1890c9b7b9dad35ba4ee43deddaee4656342c2c",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 30355.dat",
+        "0 Author: John Van Zwieten [jvan]",
+        "0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05",
+        "0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2008-07-07 [guyvivan] Made BFC'ed (2004-10-02)",
+        "0 !HISTORY 2008-07-08 [Steffen] Un-mirrored stud logos (2004-10-15)",
+        "0 !HISTORY 2008-07-09 [guyvivan] Used stugN primitives (2005-12-31)",
+        "0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03"
+      ]
+    },
+    {
+      "sourcePath": "parts/30356.dat",
+      "title": "Wing  6 x 12 Right",
+      "sha256": "df9929620c63ab49cb3ac4eb77b541cc14d7a5a1821801801f221d1691b2eab3",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 30356.dat",
+        "0 Author: John Van Zwieten [jvan]",
+        "0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05",
+        "0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2008-07-07 [guyvivan] Made BFC'ed (2004-10-02)",
+        "0 !HISTORY 2008-07-09 [guyvivan] Used stugN primitives (2005-12-31)",
+        "0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03"
+      ]
+    },
+    {
+      "sourcePath": "parts/3036.dat",
+      "title": "Plate  6 x  8",
+      "sha256": "3074a0b2952f5d9903ac2fe2196a8110e1553fd245a1d8bc7ccb43f99c654d38",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3036.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01",
+        "0 !HISTORY 2004-07-26 [guyvivan] Made BFC Compliant",
+        "0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04",
+        "0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2025-09-27 [OrionP] Changed winding to CCW",
+        "0 !HISTORY 2025-09-29 [OrionP] Official Update 2025-09"
+      ]
+    },
+    {
+      "sourcePath": "parts/3037.dat",
+      "title": "Slope Brick 45  2 x  4",
+      "sha256": "879b9e1226d6cccfde2779877489c184db02d2f926ddf069f674bf6057230909",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3037.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2008-07-07 [izanette] Made BFC compliant (2003-03-08)",
+        "0 !HISTORY 2008-07-08 [OrionP] Fixed L3P errors, moved guts to subpart (2003-10-05)",
+        "0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/30374.dat",
+      "title": "Bar  4L Lightsaber Blade",
+      "sha256": "db69ea3eecc2a6f2731aaad6ac8fb072c5ecbe136d1ea8a03de593014fe2e9c0",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 30374.dat",
+        "0 Author: Steve Bliss [sbliss]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-07-26 [sbliss] Corrected spacing in title, applied BFC",
+        "0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02",
+        "0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2017-12-31 [cwdee] Correct lightsaber spelling",
+        "0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01",
+        "0 !HISTORY 2025-09-27 [OrionP] Changed winding to CCW",
+        "0 !HISTORY 2025-09-29 [OrionP] Official Update 2025-09"
+      ]
+    },
+    {
+      "sourcePath": "parts/3068b.dat",
+      "title": "Tile  2 x  2 with Groove",
+      "sha256": "57179cd9dc0ee31742b9947157636b1b5eafc8d98a283fbd99e9abf8fda977ec",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3068b.dat",
+        "0 Author: Takeshi Takahashi [RainbowDolphin]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2004-07-26 [guyvivan] Made BFC Compliant",
+        "0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04",
+        "0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2024-05-29 [RainbowDolphin] Total rewrite, original by Damien Guichard [BrickCaster]",
+        "0 !HISTORY 2024-07-29 [OrionP] Official Update 2024-06"
+      ]
+    },
+    {
+      "sourcePath": "parts/3069b.dat",
+      "title": "Tile  1 x  2 with Groove",
+      "sha256": "31203056de061c115b007f68a564bb2383761844b9373098df0c94cc4b18046a",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3069b.dat",
+        "0 Author: Santeri Piippo [arezey]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02"
+      ]
+    },
+    {
+      "sourcePath": "parts/3070b.dat",
+      "title": "Tile  1 x  1 with Groove",
+      "sha256": "c7608c7e9f40c61747fb46c7107ef141b0a441e381768d2cdac0129f8ad03752",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3070b.dat",
+        "0 Author: Chris Dee [cwdee]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02",
+        "0 !HISTORY 2025-09-27 [OrionP] Changed winding to CCW",
+        "0 !HISTORY 2025-09-29 [OrionP] Official Update 2025-09"
+      ]
+    },
+    {
+      "sourcePath": "parts/3544.dat",
+      "title": "Wing  3 x  8 Left",
+      "sha256": "1b22bcbdde6143de753abda38e24e53b43b804dc2637f5928764b4bdfd7cb295",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3544.dat",
+        "0 Author: Gerald Lasser [GeraldLasser]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05",
+        "0 !HISTORY 2024-07-16 [Jaco] Add keywords",
+        "0 !HISTORY 2024-07-29 [OrionP] Official Update 2024-06"
+      ]
+    },
+    {
+      "sourcePath": "parts/3545.dat",
+      "title": "Wing  3 x  8 Right",
+      "sha256": "53eb41ed788eebaf169f992385ff4f0d115bf76de5b304a192563507a5a9407a",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3545.dat",
+        "0 Author: Gerald Lasser [GeraldLasser]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05",
+        "0 !HISTORY 2024-07-16 [Jaco] Add keywords",
+        "0 !HISTORY 2024-07-29 [OrionP] Official Update 2024-06"
+      ]
+    },
+    {
+      "sourcePath": "parts/3941.dat",
+      "title": "Brick  2 x  2 Round without Reinforcement",
+      "sha256": "d0cf49833082c39c358c248fd19c7568030ffc43d7add011feae168d5ad6e693",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3941.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2003-08-21 [OrionP] Changed stud to stud10, BFC'd",
+        "0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02",
+        "0 !HISTORY 2007-06-30 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2018-02-20 [MagFors] Used subfile",
+        "0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01",
+        "0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/3942c.dat",
+      "title": "Cone  2 x  2 x  2 with Hollow Stud Open",
+      "sha256": "02e03df4bbb3bd27f7ad2d86ce0a2764fe366109ab5791d42f8740b0a32ecf23",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 3942c.dat",
+        "0 Author: Michael Heidemann [mikeheide]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02",
+        "0 !HISTORY 2025-09-27 [OrionP] Changed winding to CCW",
+        "0 !HISTORY 2025-09-29 [OrionP] Official Update 2025-09"
+      ]
+    },
+    {
+      "sourcePath": "parts/4095.dat",
+      "title": "Bar  6.6L with Stop",
+      "sha256": "1e66e86c8f224ace64a29314678f25eb2e972398afbc6d62c3d9bd8d4ea07db4",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 4095.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2010-10-21 [westrate] CA rewrite; use cylc, cylo, and ring primitives",
+        "0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03"
+      ]
+    },
+    {
+      "sourcePath": "parts/4162.dat",
+      "title": "Tile  1 x  8",
+      "sha256": "558dae4d9439dfcf4290601873fb2e3ca7387dbe6c29a9478a12003ea604f8e9",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 4162.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-02-15 [BrickCaster] groove",
+        "0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04",
+        "0 !HISTORY 2004-07-27 [guyvivan] Made BFC Compliant",
+        "0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04",
+        "0 !HISTORY 2007-07-01 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2012-01-26 [Philo] Subparted for patterns",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/41769a.dat",
+      "title": "Wing  2 x  4 Right without Chamfer",
+      "sha256": "0b069ab042f2cc8297a52e76b49a06e504cd4e9a51f02d6aea8c63f686c28ff8",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 41769a.dat",
+        "0 Author: Takeshi Takahashi [RainbowDolphin]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-12-31 [PTadmin] Official Update 2002-06",
+        "0 !HISTORY 2004-10-02 [guyvivan] made BFC Compliant, corected mirrored stud",
+        "0 !HISTORY 2004-10-15 [Steffen] corrected mirroed stud logos",
+        "0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01",
+        "0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2024-08-13 [RainbowDolphin] Total rewrite, original by Marc Schickele [samrotule]",
+        "0 !HISTORY 2026-04-26 [MagFors] Renamed from 41769",
+        "0 !HISTORY 2026-05-31 [OrionP] Official Update 2026-05"
+      ]
+    },
+    {
+      "sourcePath": "parts/41770a.dat",
+      "title": "Wing  2 x  4 Left without Chamfer",
+      "sha256": "59648c2ca07a51d82fdc9aabf4edb65f4942760dc9df3b64946d13fd82b0303d",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 41770a.dat",
+        "0 Author: Takeshi Takahashi [RainbowDolphin]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-12-31 [PTadmin] Official Update 2002-06",
+        "0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01",
+        "0 !HISTORY 2004-10-02 [guyvivan] made BFC Compliant, corrected mirrored stud",
+        "0 !HISTORY 2004-10-15 [Steffen] un-mirrored all studs",
+        "0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01",
+        "0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2024-08-13 [RainbowDolphin] Total rewrite, original by Marc Schickele [samrotule]",
+        "0 !HISTORY 2026-04-26 [MagFors] Renamed from 41770",
+        "0 !HISTORY 2026-05-31 [OrionP] Official Update 2026-05"
+      ]
+    },
+    {
+      "sourcePath": "parts/42918.dat",
+      "title": "Slope Brick Curved  8 x  2",
+      "sha256": "32fd868fc29b491a1087f84048895e63bb8482c9d7340378f66d44c5cd67bf69",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 42918.dat",
+        "0 Author: Ulrich Röder [UR]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02"
+      ]
+    },
+    {
+      "sourcePath": "parts/43710.dat",
+      "title": "Wedge  4 x  2 Double Left",
+      "sha256": "e8560ef89f17bd769bd24a02c9d55d6c973c2e92478ef106d0e4bdfbacf9286c",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 43710.dat",
+        "0 Author: Orion Pobursky [OrionP]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2005-01-10 [guyvivan] Secondary author",
+        "0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01",
+        "0 !HISTORY 2019-05-29 [cwdee] Update description",
+        "0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/43711.dat",
+      "title": "Wedge  4 x  2 Double Right",
+      "sha256": "884b7c24be7ca5cb0bdfd2ae6671a8dd47e271e10c3973d6fb27a85784a65208",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 43711.dat",
+        "0 Author: Orion Pobursky [OrionP]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2005-01-10 [guyvivan] Secondary author",
+        "0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01",
+        "0 !HISTORY 2019-05-29 [cwdee] Update description",
+        "0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/43712.dat",
+      "title": "Wedge  6 x  4 Triple Curved",
+      "sha256": "e7745a2b3408eafb69dbbc5df0d6fad252d6316243db978eb9cf02109d3315aa",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 43712.dat",
+        "0 Author: Guy Vivan [guyvivan]",
+        "0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2004-03-17 [guyvivan] Initial Version",
+        "0 !HISTORY 2004-09-11 [guyvivan] Improve detail underside stud (use more primitives)",
+        "0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01",
+        "0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/43713.dat",
+      "title": "Wedge  6 x  4 Triple Curved Inverted",
+      "sha256": "529f5f17971c511bfc9e8c00535639213af25202c96b0d844c807b91ef35740b",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 43713.dat",
+        "0 Author: John Riley [jriley]",
+        "0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2007-11-02 [mikeheide] rotated 180 degree; changed name; changed 2 edgelines to optional lines",
+        "0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/44309.dat",
+      "title": "Tyre 22/ 30 x 30 ZR",
+      "sha256": "b71738cd08a3c521a37d282d7d5f2707e8cd2458dca05075031c77f54dc653a8",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 44309.dat",
+        "0 Author: Marc Klein [marckl]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01",
+        "0 !HISTORY 2013-12-05 [cwdee] Correct description",
+        "0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02",
+        "0 !HISTORY 2025-03-10 [Blechtaler] used prims",
+        "0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11",
+        "0 !HISTORY 2025-12-25 [OrionP] Minor header edits",
+        "0 !HISTORY 2025-12-25 [OrionP] Official Update 2025-12"
+      ]
+    },
+    {
+      "sourcePath": "parts/48336.dat",
+      "title": "Plate  1 x  2 with Handle Type 2",
+      "sha256": "489efe3590aa45106913d2e2fa1fd89cf6dd4a55c4f89c20e07f9a5dc729a24a",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 48336.dat",
+        "0 Author: Guy Vivan [guyvivan]",
+        "0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02",
+        "0 !HISTORY 2021-11-03 [MagFors] used handle primitive",
+        "0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/56145.dat",
+      "title": "Wheel Rim 20 x 30 with  6 Dual Spokes and External Ribs",
+      "sha256": "8ea46a32cc63a73319152480e8af07b72d900db193d9b750d5c7bb438c21f0e5",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 56145.dat",
+        "0 Author: Marc Klein [marckl]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02",
+        "0 !HISTORY 2021-02-21 [Philo] Used new subpart structure",
+        "0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05"
+      ]
+    },
+    {
+      "sourcePath": "parts/6233.dat",
+      "title": "Cone  3 x  3 x  2",
+      "sha256": "8c0aff5a7f246e8d6c7c27247f98e6d515363bb8c1d6415f1d3059fabe70b2cb",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 6233.dat",
+        "0 Author: Steve Bliss [sbliss]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05",
+        "0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant, fixed bad vertex sequence, corrected top edge (2004-10-16)",
+        "0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02",
+        "0 !HISTORY 2024-12-31 [Blechtaler] reworked with subfiles and Hi-Res outer cone",
+        "0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11",
+        "0 !HISTORY 2025-12-25 [OrionP] Minor header edits",
+        "0 !HISTORY 2025-12-25 [OrionP] Official Update 2025-12"
+      ]
+    },
+    {
+      "sourcePath": "parts/62361.dat",
+      "title": "Car Mudguard  6 x  1.5 x  1 with Arch",
+      "sha256": "54cfdd3a09b380edec73d6e9f3c31b0eb7802df591417916635fa139de065c19",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 62361.dat",
+        "0 Author: Kevin Roach [KROACH]",
+        "0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2010-01-18 [mikeheide] Made BFC compliant",
+        "0 !HISTORY 2012-09-19 [KROACH] Changes to conditional lines",
+        "0 !HISTORY 2014-01-18 [Philo] Rebuilt arch",
+        "0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/6239.dat",
+      "title": "Tail Shuttle  2 x  6 x  4",
+      "sha256": "580ac3ff608ebbad6f82daf7560755555863283fb22f3133026c4df3bd42523a",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 6239.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2014-12-19 [GeraldLasser] BFCed",
+        "0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01",
+        "0 !HISTORY 2019-01-13 [technicbasics] Build with subpart",
+        "0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/6267.dat",
+      "title": "Windscreen  2 x 12 x  4",
+      "sha256": "b70e64bbdb65cdb72b6ba51e3893f92c82fe695888f6790b64530385006767b9",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 6267.dat",
+        "0 Author: Steve Bliss [sbliss]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01",
+        "0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05",
+        "0 !HISTORY 2002-03-27 [sbliss] Added missing surfaces; made BFC-compliant",
+        "0 !HISTORY 2002-06-13 [sbliss] Removed identical line",
+        "0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05",
+        "0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2025-09-27 [OrionP] Changed winding to CCW",
+        "0 !HISTORY 2025-09-29 [OrionP] Official Update 2025-09"
+      ]
+    },
+    {
+      "sourcePath": "parts/63864.dat",
+      "title": "Tile  1 x  3",
+      "sha256": "040f04315bec9f44a0250220303aa74c9661e6a8f26c2539a80effee0a27887d",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 63864.dat",
+        "0 Author: Tim Gould [timgould]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01",
+        "0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01",
+        "0 !HISTORY 2019-07-03 [UR] Subpart Integration"
+      ]
+    },
+    {
+      "sourcePath": "parts/87079.dat",
+      "title": "Tile  2 x  4",
+      "sha256": "bb9846478e000ce54f7ffad0ea82cb9e4a3e98e1a1b8d04799d4b26a2ac52eeb",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 87079.dat",
+        "0 Author: Tim Gould [timgould]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01",
+        "0 !HISTORY 2012-09-30 [Philo] Subparted for patterns",
+        "0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03",
+        "0 !HISTORY 2025-04-25 [MagFors] Update description",
+        "0 !HISTORY 2025-04-27 [OrionP] Official Update 2025-04"
+      ]
+    },
+    {
+      "sourcePath": "parts/87994.dat",
+      "title": "Bar  3L",
+      "sha256": "1a6c0cb9de6da1175fbdf0bd4b7218c1a39e6dc1ff5e53b5d6080267267ee2e8",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 87994.dat",
+        "0 Author: Chris Dee [cwdee]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03",
+        "0 !HISTORY 2015-07-09 [cwdee] Adjusted description",
+        "0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01",
+        "0 !HISTORY 2025-09-27 [OrionP] Changed winding to CCW",
+        "0 !HISTORY 2025-09-29 [OrionP] Official Update 2025-09"
+      ]
+    },
+    {
+      "sourcePath": "parts/88930.dat",
+      "title": "Slope Brick Curved  2 x  4 with Underside Studs",
+      "sha256": "5fff0f1c9b836b7736e65afe09d4a885cddedd39a3d87f94419e1669a785708d",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 88930.dat",
+        "0 Author: Magnus Forsberg [MagFors]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02",
+        "0 !HISTORY 2012-05-25 [tchang] Created underside stud subpart",
+        "0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01",
+        "0 !HISTORY 2022-04-12 [MagFors] unified cyli dimensions",
+        "0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06"
+      ]
+    },
+    {
+      "sourcePath": "parts/93606.dat",
+      "title": "Slope Brick Curved  4 x  2",
+      "sha256": "25fbd7d1f47365270fccbe57eb7eb6f6022f6129366f3ffded6e8c0b2f56298d",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 93606.dat",
+        "0 Author: Magnus Forsberg [MagFors]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02",
+        "0 !HISTORY 2013-12-31 [Philo] Improved",
+        "0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/98138.dat",
+      "title": "Tile  1 x  1 Round with Groove",
+      "sha256": "1d506f39ea2bf69757206009498025381bbf28d9fa0b79385a30f4c5fa37f111",
+      "creditsAndLicenseHeaders": [
+        "0 Name: 98138.dat",
+        "0 Author: Magnus Forsberg [MagFors]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/15068s01.dat",
+      "title": "~Slope Brick Curved  2 x  2 x  0.667 without Top Surface",
+      "sha256": "41456734d1b26b9b448eb2fde7f0d4df463c1e2085b79ca9731a0a35554b3c58",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\15068s01.dat",
+        "0 Author: Owen Burgoyne [C3POwen]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01",
+        "0 !HISTORY 2021-08-29 [MagFors] Removed T-junctions and unmatched vertices",
+        "0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/24309s01.dat",
+      "title": "~Slope Brick Curved  3 x  2 without Top Surface",
+      "sha256": "a82454b6fbf20d4838edaefa82ac4da0bb34a669449277c879acc141a760d73f",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\24309s01.dat",
+        "0 Author: Evert-Jan Boer [ejboer]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2017-06-16 [ejboer] Moved all but top surface to subpart",
+        "0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/2431s01.dat",
+      "title": "~Tile  1 x  4 with Groove without Top Face",
+      "sha256": "8fe749b2dc7e732a9cf954472d48be1b095f2b0faef1244035ff4513905e8c17",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\2431s01.dat",
+        "0 Author: Santeri Piippo [arezey]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/3001s01.dat",
+      "title": "~Brick  2 x  4 without Front and Back Faces",
+      "sha256": "bee662925490666aa5956d301b7abc46df88b3cc35737326765441585c720047",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\3001s01.dat",
+        "0 Author: James Jessiman",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-05-07 {unknown} BFC certification",
+        "0 !HISTORY 2002-05-07 [westrate] Unknown change",
+        "0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03",
+        "0 !HISTORY 2007-08-29 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/3010s01.dat",
+      "title": "~Brick  1 x  4 without Front Face",
+      "sha256": "f4616eee36d2474da47fae07a5e1ca59888e580854be17a1a9220d0f88c75333",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\3010s01.dat",
+        "0 Author: Willy Tschager [Holly-Wood]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02",
+        "0 !HISTORY 2007-08-29 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2024-03-15 [Holly-Wood] Complete re-write, original by hafhead",
+        "0 !HISTORY 2024-04-28 [OrionP] Official Update 2024-03"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/30355s01.dat",
+      "title": "~Wing  6 x 12 Left without studs",
+      "sha256": "a0e80395622b9a46b7266aa374cb65623bba3b8d5d1c1cc7c30870d43813e519",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\30355s01.dat",
+        "0 Author: Guy Vivan [guyvivan]",
+        "0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/3037s01.dat",
+      "title": "~Slope Brick 45  2 x  4 Without Front Face",
+      "sha256": "2f508bdabed2f88761f033ee1e319dd05250c4d7f3cb25e35f22fb368ed05a96",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\3037s01.dat",
+        "0 Author: Orion Pobursky [OrionP]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/3068bs01.dat",
+      "title": "~Tile  2 x  2 with Groove without Face",
+      "sha256": "b49ecb2e8e57d8ae4a64aa5e71713d769c2a5dc91f4611fbd3157fbc30a4c6c3",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\3068bs01.dat",
+        "0 Author: Willy Tschager [Holly-Wood]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2002-04-02 [sbliss] Modified for BFC compliance",
+        "0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02",
+        "0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2024-03-07 [Holly-Wood] Complete re-write, original by BrickCaster",
+        "0 !HISTORY 2024-04-28 [OrionP] Official Update 2024-03"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/3069bs01.dat",
+      "title": "~Tile  1 x  2 with Groove without Top Face",
+      "sha256": "e910d77b65118a7fc941e846f05b46d8c5a7aa3cf5706d5479533a35423c9498",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\3069bs01.dat",
+        "0 Author: Santeri Piippo [arezey]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/3070bs01.dat",
+      "title": "~Tile  1 x  1 with Groove without Top Face",
+      "sha256": "34d2f42bf42b1c22a184fbbfea6f51412a0f49def10157b2d472f3f6faf1a304",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\3070bs01.dat",
+        "0 Author: Chris Dee [cwdee]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/3544s01.dat",
+      "title": "~Wing  3 x  8 Left without Studs",
+      "sha256": "4723f33b863825c4825ce714cd9b97cd711ae324e26ffcd3c657a3d1c64c549c",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\3544s01.dat",
+        "0 Author: Gerald Lasser [GeraldLasser]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/3544s02.dat",
+      "title": "~Wing  3 x  8 Stud Cutouts - Half",
+      "sha256": "0e6f3285e3a6d6c90c840e53deba47be9902b6d7e921c0706b861bf6c87815da",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\3544s02.dat",
+        "0 Author: Gerald Lasser [GeraldLasser]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/3941s01.dat",
+      "title": "~Brick  2 x  2 Round without Reinforcement without Outer Surface",
+      "sha256": "0285481f2422f6e098a36f26cb5337338a26048c348a266a2220e154e6f3a7a2",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\3941s01.dat",
+        "0 Author: Gerald Lasser [GeraldLasser]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2018-01-21 [GeraldLasser] Removed Surface for Printed and Modified Versions",
+        "0 !HISTORY 2018-02-19 [MagFors] used more primitives",
+        "0 !HISTORY 2018-03-30 [MagFors] used stug10-2x2 primitive",
+        "0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01",
+        "0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/4162s01.dat",
+      "title": "~Tile  1 x  8 without Top Face",
+      "sha256": "77bdbb1641274befff6beb95ff94f32b1625ccdc0c9f0556c7e4a79aaeee2b3b",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\4162s01.dat",
+        "0 Author: Philippe Hurbain [Philo]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/41770as01.dat",
+      "title": "~Wing  2 x  4 Left without Chamfer without Studs",
+      "sha256": "8d88de31c2ec2050977671b63f6115ae47b72f2c01d9f863bd34ecc00760165d",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\41770as01.dat",
+        "0 Author: Takeshi Takahashi [RainbowDolphin]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04",
+        "0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement",
+        "0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01",
+        "0 !HISTORY 2024-08-13 [RainbowDolphin] Total rewrite, original by Guy Vivan [guyvivan]",
+        "0 !HISTORY 2026-04-26 [MagFors] Renamed from s\\41770s01",
+        "0 !HISTORY 2026-05-10 [MagFors] simplified inside surface",
+        "0 !HISTORY 2026-05-31 [OrionP] Official Update 2026-05"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/42918s01.dat",
+      "title": "~Slope Brick Curved  8 x  2 without Top Surface",
+      "sha256": "41815fc51536191056afbc1d082faa3bcc57ba1f7db506b7b4fdab2e63521012",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\42918s01.dat",
+        "0 Author: Ulrich Röder [UR]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/42918s02.dat",
+      "title": "~Slope Brick Curved  8 x  2 Top Surface",
+      "sha256": "7db42f3702dde597fa0f73ad6825b1fc7cdbf9d4eef92588a4f60571bbe863cb",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\42918s02.dat",
+        "0 Author: Ulrich Röder [UR]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/43710s01.dat",
+      "title": "~Slope Brick  2 x  4 Triple Left Without Stud",
+      "sha256": "2e42b7016c75e97602900e6f7fef9d45bfcefb87466f0e0cc13e9a712140517a",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\43710s01.dat",
+        "0 Author: Orion Pobursky [OrionP]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2005-01-10 [guyvivan] Secondary author",
+        "0 !HISTORY 2005-07-30 [guyvivan] Corrected bad polygon",
+        "0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/44309s01.dat",
+      "title": "~Tyre 22/ 30 x 30 ZR Segment",
+      "sha256": "de8a6224a4300347ef9e237f3e459f732c127214d33316c321096c78b01e4782",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\44309s01.dat",
+        "0 Author: Marc Klein [marckl]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01",
+        "0 !HISTORY 2013-12-05 [cwdee] Correct description",
+        "0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02",
+        "0 !HISTORY 2025-03-10 [Blechtaler] used prims",
+        "0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/54087s00.dat",
+      "title": "~Wheel Rim 20 x 30 -  1/24 Outer Surface",
+      "sha256": "3dcc592715dfe8707edcc856871b71a574bd083cd48b723dc5fa7a32b18d7b51",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\54087s00.dat",
+        "0 Author: Marc Klein [marckl]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02",
+        "0 !HISTORY 2021-02-21 [Philo] Added axlehole wall section",
+        "0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/54087s02.dat",
+      "title": "~Wheel Rim 20 x 30 -  1/12 Bottom",
+      "sha256": "805ff78fe378e0e47c8493075f5ce4217e06fb2f8e82809e00a4281a36f04ce8",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\54087s02.dat",
+        "0 Author: Marc Klein [marckl]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02",
+        "0 !HISTORY 2021-02-21 [Philo] Removed spoke for use with two variants",
+        "0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/54087s09.dat",
+      "title": "~Wheel Rim 20 x 30 - Axle Mount",
+      "sha256": "e92c093ce3e366fc4771878395e1d2d9905bcc856468ddccccc6246743646f27",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\54087s09.dat",
+        "0 Author: Marc Klein [marckl]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02",
+        "0 !HISTORY 2021-02-21 [Philo] Changed axlehole type, adapted to new subpart structure.",
+        "0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/56145s01.dat",
+      "title": "~Wheel Rim 20 x 30 with 6 Spokes Ext. Ribs - 1/12 Rim Notch/Rib",
+      "sha256": "f86d48ad3d30cc6d65ec858f1d6879e418c17a8188ff59fec311f7c4224542ae",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\56145s01.dat",
+        "0 Author: Marc Klein [marckl]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/56145s02.dat",
+      "title": "~Wheel Rim 20 x 30 with  6 Dual Spokes and External Ribs -  1/12 Rim with Rib",
+      "sha256": "a0cba96085cae3b8af70363a8f5cf2bed0969f3c1f5f254c961be742f66769e0",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\56145s02.dat",
+        "0 Author: Marc Klein [marckl]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02",
+        "0 !HISTORY 2021-02-21 [Philo] Added axlehole wall section",
+        "0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/56145s03.dat",
+      "title": "~Wheel Rim 20 x 30 with  6 Dual Spokes and External Ribs - Spoke Half",
+      "sha256": "3b1ba1530c9264efedf02829bf342a58da67099147ceca0fc7ba26a3a36ba7db",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\56145s03.dat",
+        "0 Author: Philippe Hurbain [Philo]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/61068s01.dat",
+      "title": "~Slope Brick Curved  2 x  4 without Top Patternable Surface",
+      "sha256": "0d8164eacba96872518acf625f84678fa17a798b1446786aa28204fadff94bfe",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\61068s01.dat",
+        "0 Author: Philippe Hurbain [Philo]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2010-01-30 [mikeheide] create subpart",
+        "0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02",
+        "0 !HISTORY 2022-04-05 [Sirio] Subparted",
+        "0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/61068s02.dat",
+      "title": "~Slope Brick Curved  2 x  4 without Top and Back Patternable Surfaces",
+      "sha256": "563d10187865fe97737015fc5ef0613656d41a130f3a7c613f23e201cf84e42d",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\61068s02.dat",
+        "0 Author: Massimo Maso [Sirio]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2022-04-11 [MagFors] Closed thin gaps",
+        "0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/6233s01.dat",
+      "title": "~Cone  3 x  3 x  2 - 1/8",
+      "sha256": "fea04fc7437e0b6e2d8ddd642b9147757c80182ceb137260f14e1c0565ddd0a1",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\6233s01.dat",
+        "0 Author: Rene Rechthaler [Blechtaler]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/6239s01.dat",
+      "title": "~Tail Shuttle  2 x  6 x  4 without Decorated Surfaces",
+      "sha256": "9d1e98618231c1e82651257b17992a94590060046ab74321f741899886165664",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\6239s01.dat",
+        "0 Author: Johann Eisner [technicbasics]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/63864s01.dat",
+      "title": "~Tile  1 x  3 without Top Face",
+      "sha256": "f490f09b4057820d9efe750ca502ece3bd8c9efb149fda9ae46b83397274b9f7",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\63864s01.dat",
+        "0 Author: Ulrich Röder [UR]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/87079s01.dat",
+      "title": "~Tile  2 x  4 without Top Surface",
+      "sha256": "8d73b808e1e1dd46bbca13104de8779c6da6270131e65c7028a84ac41f198506",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\87079s01.dat",
+        "0 Author: Philippe Hurbain [Philo]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2012-09-30 [Philo] Subparted from Tim Gould's original design",
+        "0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03",
+        "0 !HISTORY 2025-04-25 [MagFors] Update description",
+        "0 !HISTORY 2025-04-27 [OrionP] Official Update 2025-04"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/88930s01.dat",
+      "title": "~Slope Brick Curved  2 x  4 Underside Stud",
+      "sha256": "f245547e8327f885db47a08cab4aecff2bb210ff6314697c7c11585002533c38",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\88930s01.dat",
+        "0 Author: J.C. Tchang [tchang]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/93606s01.dat",
+      "title": "~Slope Brick Curved  4 x  2 without Top Surface",
+      "sha256": "6250e94175e380f3b666f9a5fac3f338b9545fb29bc7ae11e30f549c22821902",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\93606s01.dat",
+        "0 Author: Magnus Forsberg [MagFors]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02",
+        "0 !HISTORY 2013-12-31 [Philo] Used primitive for top surface for smoother result",
+        "0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/98138s01.dat",
+      "title": "~Tile  1 x  1 Round with Groove with Partial Top Face",
+      "sha256": "dff4bf55eb5b4d6a8f3889fc208b5946a8f7b139e297a1edb67e2f976fc165b9",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\98138s01.dat",
+        "0 Author: Magnus Forsberg [MagFors]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02",
+        "0 !HISTORY 2016-06-17 [MagFors] Reduced the rounded edge to 0.5 ldu",
+        "0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01",
+        "0 !HISTORY 2019-06-17 [MagFors] Removed the rounded edge",
+        "0 !HISTORY 2019-07-19 [MagFors] Subfiled without top surface",
+        "0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01"
+      ]
+    },
+    {
+      "sourcePath": "parts/s/98138s02.dat",
+      "title": "~Tile  1 x  1 Round with Groove without Complete Top Face",
+      "sha256": "5bda194e7fcb4eaac3211f712ec73a18988f4312fc94aade40722b1e9da00548",
+      "creditsAndLicenseHeaders": [
+        "0 Name: s\\98138s02.dat",
+        "0 Author: Magnus Forsberg [MagFors]",
+        "0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt",
+        "0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01"
+      ]
+    }
+  ]
+}
