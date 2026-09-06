@@ -1,0 +1,2613 @@
+{
+  "schema": "bricksmith.scene.v1",
+  "name": "Orbiter — full-catalog visual prototype",
+  "description": "Host-authored shuttle with curved fuselage and nose, genuine diagonal wing/root plates, swept thin tail and rotated round engine bells. Visual prototype: some joins/interpenetrations and cantilevered assemblies are not mechanically solved. No buildability claim or inferred instructions.",
+  "units": "LDU",
+  "libraryDigest": "420a5e61759391a217bc5d22cb3867f2275f8efa5ef5fec11b1e97b86991a666",
+  "parts": [
+    {
+      "id": "starboard-wing-heatshield",
+      "part": "30355",
+      "color": 0,
+      "position": [
+        140,
+        0,
+        100
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "starboard-root-heatshield",
+      "part": "3544",
+      "color": 0,
+      "position": [
+        110,
+        0,
+        -100
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "starboard-wing-surface",
+      "part": "30355",
+      "color": 15,
+      "position": [
+        140,
+        -8,
+        100
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "starboard-root-surface",
+      "part": "3544",
+      "color": 15,
+      "position": [
+        110,
+        -8,
+        -100
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "port-wing-heatshield",
+      "part": "30356",
+      "color": 0,
+      "position": [
+        -140,
+        0,
+        100
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "port-root-heatshield",
+      "part": "3545",
+      "color": 0,
+      "position": [
+        -110,
+        0,
+        -100
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "port-wing-surface",
+      "part": "30356",
+      "color": 15,
+      "position": [
+        -140,
+        -8,
+        100
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "port-root-surface",
+      "part": "3545",
+      "color": 15,
+      "position": [
+        -110,
+        -8,
+        -100
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "belly--100",
+      "part": "3036",
+      "color": 0,
+      "position": [
+        0,
+        0,
+        -100
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "belly-20",
+      "part": "3036",
+      "color": 0,
+      "position": [
+        0,
+        0,
+        20
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "belly-140",
+      "part": "3036",
+      "color": 0,
+      "position": [
+        0,
+        0,
+        140
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "belly-aft",
+      "part": "3034",
+      "color": 0,
+      "position": [
+        0,
+        0,
+        220
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "lower-skin--100",
+      "part": "3036",
+      "color": 15,
+      "position": [
+        0,
+        -8,
+        -100
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "lower-skin-20",
+      "part": "3036",
+      "color": 15,
+      "position": [
+        0,
+        -8,
+        20
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "lower-skin-140",
+      "part": "3036",
+      "color": 15,
+      "position": [
+        0,
+        -8,
+        140
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "lower-skin-aft",
+      "part": "3034",
+      "color": 15,
+      "position": [
+        0,
+        -8,
+        220
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "upper-deck--100",
+      "part": "3036",
+      "color": 15,
+      "position": [
+        0,
+        -40,
+        -100
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "upper-deck-20",
+      "part": "3036",
+      "color": 15,
+      "position": [
+        0,
+        -40,
+        20
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "upper-deck-140",
+      "part": "3036",
+      "color": 15,
+      "position": [
+        0,
+        -40,
+        140
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "upper-deck-aft",
+      "part": "3034",
+      "color": 15,
+      "position": [
+        0,
+        -40,
+        220
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "wall--60--120",
+      "part": "3001",
+      "color": 15,
+      "position": [
+        -60,
+        -32,
+        -120
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "wall--60--40",
+      "part": "3001",
+      "color": 15,
+      "position": [
+        -60,
+        -32,
+        -40
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "wall--60-40",
+      "part": "3001",
+      "color": 15,
+      "position": [
+        -60,
+        -32,
+        40
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "wall--60-120",
+      "part": "3001",
+      "color": 15,
+      "position": [
+        -60,
+        -32,
+        120
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "wall--60-200",
+      "part": "3001",
+      "color": 15,
+      "position": [
+        -60,
+        -32,
+        200
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "wall--20--120",
+      "part": "3001",
+      "color": 15,
+      "position": [
+        -20,
+        -32,
+        -120
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "wall--20--40",
+      "part": "3001",
+      "color": 15,
+      "position": [
+        -20,
+        -32,
+        -40
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "wall--20-40",
+      "part": "3001",
+      "color": 15,
+      "position": [
+        -20,
+        -32,
+        40
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "wall--20-120",
+      "part": "3001",
+      "color": 15,
+      "position": [
+        -20,
+        -32,
+        120
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "wall--20-200",
+      "part": "3001",
+      "color": 15,
+      "position": [
+        -20,
+        -32,
+        200
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "wall-20--120",
+      "part": "3001",
+      "color": 15,
+      "position": [
+        20,
+        -32,
+        -120
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "wall-20--40",
+      "part": "3001",
+      "color": 15,
+      "position": [
+        20,
+        -32,
+        -40
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "wall-20-40",
+      "part": "3001",
+      "color": 15,
+      "position": [
+        20,
+        -32,
+        40
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "wall-20-120",
+      "part": "3001",
+      "color": 15,
+      "position": [
+        20,
+        -32,
+        120
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "wall-20-200",
+      "part": "3001",
+      "color": 15,
+      "position": [
+        20,
+        -32,
+        200
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "wall-60--120",
+      "part": "3001",
+      "color": 15,
+      "position": [
+        60,
+        -32,
+        -120
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "wall-60--40",
+      "part": "3001",
+      "color": 15,
+      "position": [
+        60,
+        -32,
+        -40
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "wall-60-40",
+      "part": "3001",
+      "color": 15,
+      "position": [
+        60,
+        -32,
+        40
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "wall-60-120",
+      "part": "3001",
+      "color": 15,
+      "position": [
+        60,
+        -32,
+        120
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "wall-60-200",
+      "part": "3001",
+      "color": 15,
+      "position": [
+        60,
+        -32,
+        200
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "curved-port--140",
+      "part": "24309",
+      "color": 15,
+      "position": [
+        -50,
+        -64,
+        -140
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "curved-starboard--140",
+      "part": "24309",
+      "color": 15,
+      "position": [
+        50,
+        -64,
+        -140
+      ],
+      "rotation": [
+        0,
+        0,
+        -1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "spine-low--140",
+      "part": "3022",
+      "color": 15,
+      "position": [
+        0,
+        -48,
+        -140
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "spine-high--140",
+      "part": "3022",
+      "color": 15,
+      "position": [
+        0,
+        -56,
+        -140
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cargo-seam--140",
+      "part": "3068b",
+      "color": 15,
+      "position": [
+        0,
+        -64,
+        -140
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "curved-port--100",
+      "part": "24309",
+      "color": 15,
+      "position": [
+        -50,
+        -64,
+        -100
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "curved-starboard--100",
+      "part": "24309",
+      "color": 15,
+      "position": [
+        50,
+        -64,
+        -100
+      ],
+      "rotation": [
+        0,
+        0,
+        -1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "spine-low--100",
+      "part": "3022",
+      "color": 15,
+      "position": [
+        0,
+        -48,
+        -100
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "spine-high--100",
+      "part": "3022",
+      "color": 15,
+      "position": [
+        0,
+        -56,
+        -100
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cargo-seam--100",
+      "part": "3068b",
+      "color": 15,
+      "position": [
+        0,
+        -64,
+        -100
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "curved-port--60",
+      "part": "24309",
+      "color": 15,
+      "position": [
+        -50,
+        -64,
+        -60
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "curved-starboard--60",
+      "part": "24309",
+      "color": 15,
+      "position": [
+        50,
+        -64,
+        -60
+      ],
+      "rotation": [
+        0,
+        0,
+        -1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "spine-low--60",
+      "part": "3022",
+      "color": 15,
+      "position": [
+        0,
+        -48,
+        -60
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "spine-high--60",
+      "part": "3022",
+      "color": 15,
+      "position": [
+        0,
+        -56,
+        -60
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cargo-seam--60",
+      "part": "3068b",
+      "color": 15,
+      "position": [
+        0,
+        -64,
+        -60
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "curved-port--20",
+      "part": "24309",
+      "color": 15,
+      "position": [
+        -50,
+        -64,
+        -20
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "curved-starboard--20",
+      "part": "24309",
+      "color": 15,
+      "position": [
+        50,
+        -64,
+        -20
+      ],
+      "rotation": [
+        0,
+        0,
+        -1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "spine-low--20",
+      "part": "3022",
+      "color": 15,
+      "position": [
+        0,
+        -48,
+        -20
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "spine-high--20",
+      "part": "3022",
+      "color": 15,
+      "position": [
+        0,
+        -56,
+        -20
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cargo-seam--20",
+      "part": "3068b",
+      "color": 15,
+      "position": [
+        0,
+        -64,
+        -20
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "curved-port-20",
+      "part": "24309",
+      "color": 15,
+      "position": [
+        -50,
+        -64,
+        20
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "curved-starboard-20",
+      "part": "24309",
+      "color": 15,
+      "position": [
+        50,
+        -64,
+        20
+      ],
+      "rotation": [
+        0,
+        0,
+        -1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "spine-low-20",
+      "part": "3022",
+      "color": 15,
+      "position": [
+        0,
+        -48,
+        20
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "spine-high-20",
+      "part": "3022",
+      "color": 15,
+      "position": [
+        0,
+        -56,
+        20
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cargo-seam-20",
+      "part": "3068b",
+      "color": 15,
+      "position": [
+        0,
+        -64,
+        20
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "curved-port-60",
+      "part": "24309",
+      "color": 15,
+      "position": [
+        -50,
+        -64,
+        60
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "curved-starboard-60",
+      "part": "24309",
+      "color": 15,
+      "position": [
+        50,
+        -64,
+        60
+      ],
+      "rotation": [
+        0,
+        0,
+        -1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "spine-low-60",
+      "part": "3022",
+      "color": 15,
+      "position": [
+        0,
+        -48,
+        60
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "spine-high-60",
+      "part": "3022",
+      "color": 15,
+      "position": [
+        0,
+        -56,
+        60
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cargo-seam-60",
+      "part": "3068b",
+      "color": 15,
+      "position": [
+        0,
+        -64,
+        60
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "curved-port-100",
+      "part": "24309",
+      "color": 15,
+      "position": [
+        -50,
+        -64,
+        100
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "curved-starboard-100",
+      "part": "24309",
+      "color": 15,
+      "position": [
+        50,
+        -64,
+        100
+      ],
+      "rotation": [
+        0,
+        0,
+        -1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "spine-low-100",
+      "part": "3022",
+      "color": 15,
+      "position": [
+        0,
+        -48,
+        100
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "spine-high-100",
+      "part": "3022",
+      "color": 15,
+      "position": [
+        0,
+        -56,
+        100
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cargo-seam-100",
+      "part": "3068b",
+      "color": 15,
+      "position": [
+        0,
+        -64,
+        100
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "curved-port-140",
+      "part": "24309",
+      "color": 15,
+      "position": [
+        -50,
+        -64,
+        140
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "curved-starboard-140",
+      "part": "24309",
+      "color": 15,
+      "position": [
+        50,
+        -64,
+        140
+      ],
+      "rotation": [
+        0,
+        0,
+        -1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "spine-low-140",
+      "part": "3022",
+      "color": 15,
+      "position": [
+        0,
+        -48,
+        140
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "spine-high-140",
+      "part": "3022",
+      "color": 15,
+      "position": [
+        0,
+        -56,
+        140
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cargo-seam-140",
+      "part": "3068b",
+      "color": 15,
+      "position": [
+        0,
+        -64,
+        140
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "curved-port-180",
+      "part": "24309",
+      "color": 15,
+      "position": [
+        -50,
+        -64,
+        180
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "curved-starboard-180",
+      "part": "24309",
+      "color": 15,
+      "position": [
+        50,
+        -64,
+        180
+      ],
+      "rotation": [
+        0,
+        0,
+        -1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "spine-low-180",
+      "part": "3022",
+      "color": 15,
+      "position": [
+        0,
+        -48,
+        180
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "spine-high-180",
+      "part": "3022",
+      "color": 15,
+      "position": [
+        0,
+        -56,
+        180
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cargo-seam-180",
+      "part": "3068b",
+      "color": 15,
+      "position": [
+        0,
+        -64,
+        180
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "curved-port-220",
+      "part": "24309",
+      "color": 15,
+      "position": [
+        -50,
+        -64,
+        220
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "curved-starboard-220",
+      "part": "24309",
+      "color": 15,
+      "position": [
+        50,
+        -64,
+        220
+      ],
+      "rotation": [
+        0,
+        0,
+        -1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "spine-low-220",
+      "part": "3022",
+      "color": 15,
+      "position": [
+        0,
+        -48,
+        220
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "spine-high-220",
+      "part": "3022",
+      "color": 15,
+      "position": [
+        0,
+        -56,
+        220
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cargo-seam-220",
+      "part": "3068b",
+      "color": 15,
+      "position": [
+        0,
+        -64,
+        220
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cockpit-base",
+      "part": "3035",
+      "color": 0,
+      "position": [
+        0,
+        0,
+        -200
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cockpit-floor",
+      "part": "3035",
+      "color": 15,
+      "position": [
+        0,
+        -8,
+        -200
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "nose-upper",
+      "part": "43712",
+      "color": 15,
+      "position": [
+        0,
+        -40,
+        -260
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "nose-lower",
+      "part": "43713",
+      "color": 0,
+      "position": [
+        0,
+        -16,
+        -260
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "rounded-thermal-nose",
+      "part": "15068",
+      "color": 0,
+      "position": [
+        0,
+        -14,
+        -350
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cockpit-windshield",
+      "part": "3037",
+      "color": 0,
+      "position": [
+        0,
+        -64,
+        -210
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cockpit-roof",
+      "part": "87079",
+      "color": 15,
+      "position": [
+        0,
+        -72,
+        -180
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cockpit-roof-front",
+      "part": "2431",
+      "color": 15,
+      "position": [
+        0,
+        -72,
+        -210
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cockpit-core",
+      "part": "3001",
+      "color": 15,
+      "position": [
+        0,
+        -32,
+        -200
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cockpit-left-shoulder",
+      "part": "43711",
+      "color": 15,
+      "position": [
+        -50,
+        -32,
+        -230
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cockpit-right-shoulder",
+      "part": "43710",
+      "color": 15,
+      "position": [
+        50,
+        -32,
+        -230
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cockpit-curved--60--220",
+      "part": "15068",
+      "color": 15,
+      "position": [
+        -60,
+        -40,
+        -220
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "cockpit-curved--60--180",
+      "part": "15068",
+      "color": 15,
+      "position": [
+        -60,
+        -40,
+        -180
+      ],
+      "rotation": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "cockpit-curved-60--220",
+      "part": "15068",
+      "color": 15,
+      "position": [
+        60,
+        -40,
+        -220
+      ],
+      "rotation": [
+        0,
+        0,
+        -1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "cockpit-curved-60--180",
+      "part": "15068",
+      "color": 15,
+      "position": [
+        60,
+        -40,
+        -180
+      ],
+      "rotation": [
+        0,
+        0,
+        -1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "swept-vertical-tail",
+      "part": "6239",
+      "color": 15,
+      "position": [
+        0,
+        -72,
+        150
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "engine-neck-lower-port",
+      "part": "3941",
+      "color": 72,
+      "position": [
+        -40,
+        -22,
+        222
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "id": "engine-bell-lower-port",
+      "part": "6233",
+      "color": 72,
+      "position": [
+        -40,
+        -22,
+        246
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "id": "engine-neck-lower-starboard",
+      "part": "3941",
+      "color": 72,
+      "position": [
+        40,
+        -22,
+        222
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "id": "engine-bell-lower-starboard",
+      "part": "6233",
+      "color": 72,
+      "position": [
+        40,
+        -22,
+        246
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "id": "engine-neck-upper",
+      "part": "3941",
+      "color": 72,
+      "position": [
+        0,
+        -74,
+        222
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "id": "engine-bell-upper",
+      "part": "6233",
+      "color": 72,
+      "position": [
+        0,
+        -74,
+        246
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "id": "oms-cylinder--65",
+      "part": "3941",
+      "color": 15,
+      "position": [
+        -65,
+        -70,
+        196
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "id": "oms-nozzle--65",
+      "part": "3942c",
+      "color": 72,
+      "position": [
+        -65,
+        -70,
+        220
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "id": "oms-cylinder-65",
+      "part": "3941",
+      "color": 15,
+      "position": [
+        65,
+        -70,
+        196
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "id": "oms-nozzle-65",
+      "part": "3942c",
+      "color": 72,
+      "position": [
+        65,
+        -70,
+        220
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "id": "elevon--180",
+      "part": "3068b",
+      "color": 0,
+      "position": [
+        -180,
+        -16,
+        200
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "elevon--140",
+      "part": "3068b",
+      "color": 0,
+      "position": [
+        -140,
+        -16,
+        200
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "elevon--100",
+      "part": "3068b",
+      "color": 0,
+      "position": [
+        -100,
+        -16,
+        200
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "elevon-100",
+      "part": "3068b",
+      "color": 0,
+      "position": [
+        100,
+        -16,
+        200
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "elevon-140",
+      "part": "3068b",
+      "color": 0,
+      "position": [
+        140,
+        -16,
+        200
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "elevon-180",
+      "part": "3068b",
+      "color": 0,
+      "position": [
+        180,
+        -16,
+        200
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "wing-panel--110",
+      "part": "3068b",
+      "color": 71,
+      "position": [
+        -110,
+        -16,
+        120
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "wing-panel-110",
+      "part": "3068b",
+      "color": 71,
+      "position": [
+        110,
+        -16,
+        120
+      ],
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

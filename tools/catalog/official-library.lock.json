@@ -1,0 +1,21 @@
+{
+  "source": "https://library.ldraw.org/library/updates/complete.zip",
+  "version": "2026-08",
+  "archiveSha256": "d2a695868ed2b3957c45b022a6451908edab22cc043179dd61d18dd382b35e11",
+  "archiveBytes": 145316175,
+  "treeDigest": "420a5e61759391a217bc5d22cb3867f2275f8efa5ef5fec11b1e97b86991a666",
+  "counts": {
+    "files": 37099,
+    "datFiles": 36807,
+    "mainParts": 24735,
+    "subparts": 9235,
+    "primitives": 2835,
+    "otherDat": 2,
+    "mainAliases": 497,
+    "mainMoved": 1160,
+    "mainShortcuts": 5193,
+    "mainPatterns": 8589,
+    "colors": 322,
+    "textures": 138
+  }
+}

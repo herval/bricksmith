@@ -1,0 +1,74 @@
+{
+  "name": "bricksmith",
+  "version": "0.3.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 4173 --strictPort",
+    "test": "tsx --test tests/*.test.ts",
+    "samples": "tsx scripts/samples.ts",
+    "test:browser": "node scripts/browser-smoke.mjs",
+    "cli": "node tools/bin.mjs",
+    "test:tools": "tsx --test tests/tools.test.ts",
+    "test:tool-render": "node scripts/tool-render-smoke.mjs",
+    "test:catalog": "tsx --test tests/catalog.test.ts",
+    "test:browser:ephemeral": "node scripts/browser-ephemeral.mjs",
+    "test:catalog-render": "node scripts/catalog-render-smoke.mjs"
+  },
+  "dependencies": {
+    "three": "0.185.1",
+    "tsx": "4.23.13",
+    "vite": "8.2.2",
+    "@playwright/test": "1.63.0"
+  },
+  "devDependencies": {
+    "@types/three": "0.185.4",
+    "@types/node": "26.4.1",
+    "typescript": "7.0.2"
+  },
+  "bin": {
+    "bricksmith": "tools/bin.mjs"
+  },
+  "files": [
+    "SKILL.md",
+    "references",
+    "tools",
+    "src",
+    "docs",
+    "examples/agent",
+    "README.md",
+    "TOOLS.md",
+    "THIRD_PARTY_NOTICES.md",
+    "package-lock.json",
+    "tsconfig.json",
+    "index.html",
+    "public",
+    "scripts",
+    "tests",
+    "samples",
+    "AGENT-TOOLS-VERIFICATION.md",
+    "examples/catalog",
+    "FULL-CATALOG-EVIDENCE.md"
+  ],
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "exports": {
+    ".": {
+      "types": "./tools/index.d.mts",
+      "import": "./tools/index.mjs"
+    },
+    "./schema/design": "./tools/schema/design.schema.json",
+    "./schema/plan": "./tools/schema/plan.schema.json",
+    "./schema/scene": "./tools/schema/scene.schema.json",
+    "./catalog": "./tools/catalog/library.mjs",
+    "./scene": "./tools/catalog/scene.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/herval/bricksmith.git"
+  },
+  "description": "Agent-native image/text-to-brick models with the full official LDraw community library and local deterministic tools."
+}

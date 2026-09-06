@@ -1,0 +1,243 @@
+{
+  "schema": "bricksmith.design.v1",
+  "name": "Surveyor pocket rover",
+  "description": "Text-designed static rover sculpture with four brick-built rounded tires, open cargo well, blue solar deck, cylindrical mast and stereo camera. Tires are geometry, not mechanical wheel parts.",
+  "bounds": {
+    "min": [
+      -7,
+      0,
+      -7
+    ],
+    "size": [
+      14,
+      30,
+      14
+    ]
+  },
+  "shapes": [
+    {
+      "op": "add",
+      "color": 0,
+      "shape": {
+        "type": "ellipsoid",
+        "center": [
+          -5,
+          5,
+          -4
+        ],
+        "radii": [
+          1.5,
+          5,
+          2
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "color": 0,
+      "shape": {
+        "type": "ellipsoid",
+        "center": [
+          -5,
+          5,
+          4
+        ],
+        "radii": [
+          1.5,
+          5,
+          2
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "color": 0,
+      "shape": {
+        "type": "ellipsoid",
+        "center": [
+          5,
+          5,
+          -4
+        ],
+        "radii": [
+          1.5,
+          5,
+          2
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "color": 0,
+      "shape": {
+        "type": "ellipsoid",
+        "center": [
+          5,
+          5,
+          4
+        ],
+        "radii": [
+          1.5,
+          5,
+          2
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "color": 72,
+      "shape": {
+        "type": "box",
+        "min": [
+          -5,
+          8,
+          -6
+        ],
+        "size": [
+          10,
+          3,
+          12
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "color": 15,
+      "shape": {
+        "type": "difference",
+        "children": [
+          {
+            "type": "box",
+            "min": [
+              -4,
+              11,
+              -5
+            ],
+            "size": [
+              8,
+              5,
+              10
+            ]
+          },
+          {
+            "type": "box",
+            "min": [
+              -2,
+              13,
+              -1
+            ],
+            "size": [
+              4,
+              4,
+              4
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "color": 1,
+      "shape": {
+        "type": "box",
+        "min": [
+          -4,
+          16,
+          0
+        ],
+        "size": [
+          8,
+          1,
+          5
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "color": 14,
+      "shape": {
+        "type": "cylinder",
+        "center": [
+          0,
+          21,
+          -3
+        ],
+        "radius": 1.2,
+        "height": 10,
+        "axis": "y"
+      }
+    },
+    {
+      "op": "add",
+      "color": 71,
+      "shape": {
+        "type": "box",
+        "min": [
+          -2,
+          25,
+          -5
+        ],
+        "size": [
+          4,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "op": "paint",
+      "color": 0,
+      "shape": {
+        "type": "box",
+        "min": [
+          -2,
+          26,
+          -5
+        ],
+        "size": [
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "op": "paint",
+      "color": 0,
+      "shape": {
+        "type": "box",
+        "min": [
+          1,
+          26,
+          -5
+        ],
+        "size": [
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "op": "paint",
+      "color": 14,
+      "shape": {
+        "type": "box",
+        "min": [
+          -4,
+          12,
+          -5
+        ],
+        "size": [
+          8,
+          1,
+          1
+        ]
+      }
+    }
+  ],
+  "packing": {
+    "mode": "mixed",
+    "maxPieces": 2000
+  }
+}

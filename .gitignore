@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.cache/
+artifacts/
+output/
+private/
+coverage/
+playwright-report/
+test-results/
+.env
+.env.*
+!.env.example
+.npmrc
+*.log
+*.zip
+*.tgz
+.DS_Store

@@ -1,0 +1,221 @@
+{
+  "source": "https://library.ldraw.org/library/official/",
+  "retrievedAt": "2026-09-06T02:00:40.909Z",
+  "files": [
+    {
+      "reference": "3001.dat",
+      "path": "parts/3001.dat",
+      "url": "https://library.ldraw.org/library/official/parts/3001.dat"
+    },
+    {
+      "reference": "s/3001s01.dat",
+      "path": "parts/s/3001s01.dat",
+      "url": "https://library.ldraw.org/library/official/parts/s/3001s01.dat"
+    },
+    {
+      "reference": "stud4.dat",
+      "path": "p/stud4.dat",
+      "url": "https://library.ldraw.org/library/official/p/stud4.dat"
+    },
+    {
+      "reference": "4-4edge.dat",
+      "path": "p/4-4edge.dat",
+      "url": "https://library.ldraw.org/library/official/p/4-4edge.dat"
+    },
+    {
+      "reference": "4-4cyli.dat",
+      "path": "p/4-4cyli.dat",
+      "url": "https://library.ldraw.org/library/official/p/4-4cyli.dat"
+    },
+    {
+      "reference": "4-4ring3.dat",
+      "path": "p/4-4ring3.dat",
+      "url": "https://library.ldraw.org/library/official/p/4-4ring3.dat"
+    },
+    {
+      "reference": "box5.dat",
+      "path": "p/box5.dat",
+      "url": "https://library.ldraw.org/library/official/p/box5.dat"
+    },
+    {
+      "reference": "box3u2p.dat",
+      "path": "p/box3u2p.dat",
+      "url": "https://library.ldraw.org/library/official/p/box3u2p.dat"
+    },
+    {
+      "reference": "stud.dat",
+      "path": "p/stud.dat",
+      "url": "https://library.ldraw.org/library/official/p/stud.dat"
+    },
+    {
+      "reference": "4-4disc.dat",
+      "path": "p/4-4disc.dat",
+      "url": "https://library.ldraw.org/library/official/p/4-4disc.dat"
+    },
+    {
+      "reference": "3002.dat",
+      "path": "parts/3002.dat",
+      "url": "https://library.ldraw.org/library/official/parts/3002.dat"
+    },
+    {
+      "reference": "s/3002s01.dat",
+      "path": "parts/s/3002s01.dat",
+      "url": "https://library.ldraw.org/library/official/parts/s/3002s01.dat"
+    },
+    {
+      "reference": "3003.dat",
+      "path": "parts/3003.dat",
+      "url": "https://library.ldraw.org/library/official/parts/3003.dat"
+    },
+    {
+      "reference": "s/3003s01.dat",
+      "path": "parts/s/3003s01.dat",
+      "url": "https://library.ldraw.org/library/official/parts/s/3003s01.dat"
+    },
+    {
+      "reference": "s/3003s02.dat",
+      "path": "parts/s/3003s02.dat",
+      "url": "https://library.ldraw.org/library/official/parts/s/3003s02.dat"
+    },
+    {
+      "reference": "stug-2x2.dat",
+      "path": "p/stug-2x2.dat",
+      "url": "https://library.ldraw.org/library/official/p/stug-2x2.dat"
+    },
+    {
+      "reference": "3010.dat",
+      "path": "parts/3010.dat",
+      "url": "https://library.ldraw.org/library/official/parts/3010.dat"
+    },
+    {
+      "reference": "s/3010s01.dat",
+      "path": "parts/s/3010s01.dat",
+      "url": "https://library.ldraw.org/library/official/parts/s/3010s01.dat"
+    },
+    {
+      "reference": "stug-1x4.dat",
+      "path": "p/stug-1x4.dat",
+      "url": "https://library.ldraw.org/library/official/p/stug-1x4.dat"
+    },
+    {
+      "reference": "stug3-1x3.dat",
+      "path": "p/stug3-1x3.dat",
+      "url": "https://library.ldraw.org/library/official/p/stug3-1x3.dat"
+    },
+    {
+      "reference": "stud3.dat",
+      "path": "p/stud3.dat",
+      "url": "https://library.ldraw.org/library/official/p/stud3.dat"
+    },
+    {
+      "reference": "box4t.dat",
+      "path": "p/box4t.dat",
+      "url": "https://library.ldraw.org/library/official/p/box4t.dat"
+    },
+    {
+      "reference": "3622.dat",
+      "path": "parts/3622.dat",
+      "url": "https://library.ldraw.org/library/official/parts/3622.dat"
+    },
+    {
+      "reference": "s/3622s01.dat",
+      "path": "parts/s/3622s01.dat",
+      "url": "https://library.ldraw.org/library/official/parts/s/3622s01.dat"
+    },
+    {
+      "reference": "stug-1x3.dat",
+      "path": "p/stug-1x3.dat",
+      "url": "https://library.ldraw.org/library/official/p/stug-1x3.dat"
+    },
+    {
+      "reference": "stug3-1x2.dat",
+      "path": "p/stug3-1x2.dat",
+      "url": "https://library.ldraw.org/library/official/p/stug3-1x2.dat"
+    },
+    {
+      "reference": "3004.dat",
+      "path": "parts/3004.dat",
+      "url": "https://library.ldraw.org/library/official/parts/3004.dat"
+    },
+    {
+      "reference": "s/3004s01.dat",
+      "path": "parts/s/3004s01.dat",
+      "url": "https://library.ldraw.org/library/official/parts/s/3004s01.dat"
+    },
+    {
+      "reference": "3005.dat",
+      "path": "parts/3005.dat",
+      "url": "https://library.ldraw.org/library/official/parts/3005.dat"
+    },
+    {
+      "reference": "s/3005s01.dat",
+      "path": "parts/s/3005s01.dat",
+      "url": "https://library.ldraw.org/library/official/parts/s/3005s01.dat"
+    },
+    {
+      "reference": "3020.dat",
+      "path": "parts/3020.dat",
+      "url": "https://library.ldraw.org/library/official/parts/3020.dat"
+    },
+    {
+      "reference": "3021.dat",
+      "path": "parts/3021.dat",
+      "url": "https://library.ldraw.org/library/official/parts/3021.dat"
+    },
+    {
+      "reference": "3022.dat",
+      "path": "parts/3022.dat",
+      "url": "https://library.ldraw.org/library/official/parts/3022.dat"
+    },
+    {
+      "reference": "3710.dat",
+      "path": "parts/3710.dat",
+      "url": "https://library.ldraw.org/library/official/parts/3710.dat"
+    },
+    {
+      "reference": "s/3710s01.dat",
+      "path": "parts/s/3710s01.dat",
+      "url": "https://library.ldraw.org/library/official/parts/s/3710s01.dat"
+    },
+    {
+      "reference": "3623.dat",
+      "path": "parts/3623.dat",
+      "url": "https://library.ldraw.org/library/official/parts/3623.dat"
+    },
+    {
+      "reference": "s/3623s01.dat",
+      "path": "parts/s/3623s01.dat",
+      "url": "https://library.ldraw.org/library/official/parts/s/3623s01.dat"
+    },
+    {
+      "reference": "3023.dat",
+      "path": "parts/3023.dat",
+      "url": "https://library.ldraw.org/library/official/parts/3023.dat"
+    },
+    {
+      "reference": "3023b.dat",
+      "path": "parts/3023b.dat",
+      "url": "https://library.ldraw.org/library/official/parts/3023b.dat"
+    },
+    {
+      "reference": "s/3023bs01.dat",
+      "path": "parts/s/3023bs01.dat",
+      "url": "https://library.ldraw.org/library/official/parts/s/3023bs01.dat"
+    },
+    {
+      "reference": "stug-1x2.dat",
+      "path": "p/stug-1x2.dat",
+      "url": "https://library.ldraw.org/library/official/p/stug-1x2.dat"
+    },
+    {
+      "reference": "3024.dat",
+      "path": "parts/3024.dat",
+      "url": "https://library.ldraw.org/library/official/parts/3024.dat"
+    },
+    {
+      "reference": "s/3024s01.dat",
+      "path": "parts/s/3024s01.dat",
+      "url": "https://library.ldraw.org/library/official/parts/s/3024s01.dat"
+    }
+  ]
+}

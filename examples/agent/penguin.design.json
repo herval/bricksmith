@@ -1,0 +1,276 @@
+{
+  "schema": "bricksmith.design.v1",
+  "name": "Pebble the polar penguin",
+  "description": "Host-agent-authored volumetric penguin: orange feet and beak, dark rounded body, white breast and eye patches. Text concept only; unseen geometry is inferred, not measured. Revision 2 explicitly widens/notches the feet and adds dark ankle/flipper-root geometry for bottom-up assembly.",
+  "bounds": {
+    "min": [
+      -7,
+      0,
+      -6
+    ],
+    "size": [
+      14,
+      44,
+      12
+    ]
+  },
+  "shapes": [
+    {
+      "op": "add",
+      "color": 25,
+      "shape": {
+        "type": "difference",
+        "children": [
+          {
+            "type": "box",
+            "min": [
+              -5,
+              0,
+              -5
+            ],
+            "size": [
+              10,
+              3,
+              8
+            ]
+          },
+          {
+            "type": "box",
+            "min": [
+              -1,
+              0,
+              -5
+            ],
+            "size": [
+              2,
+              2,
+              3
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "color": 0,
+      "shape": {
+        "type": "ellipsoid",
+        "center": [
+          0,
+          19,
+          0
+        ],
+        "radii": [
+          5,
+          17,
+          3.5
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "color": 0,
+      "shape": {
+        "type": "ellipsoid",
+        "center": [
+          0,
+          34,
+          0
+        ],
+        "radii": [
+          4,
+          8,
+          3.5
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "color": 0,
+      "shape": {
+        "type": "ellipsoid",
+        "center": [
+          -4.7,
+          20,
+          0
+        ],
+        "radii": [
+          1.7,
+          10,
+          2
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "color": 0,
+      "shape": {
+        "type": "ellipsoid",
+        "center": [
+          4.7,
+          20,
+          0
+        ],
+        "radii": [
+          1.7,
+          10,
+          2
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "color": 0,
+      "shape": {
+        "type": "union",
+        "children": [
+          {
+            "type": "box",
+            "min": [
+              -5,
+              3,
+              -1
+            ],
+            "size": [
+              10,
+              8,
+              2
+            ]
+          },
+          {
+            "type": "box",
+            "min": [
+              -4,
+              3,
+              -2
+            ],
+            "size": [
+              8,
+              6,
+              4
+            ]
+          },
+          {
+            "type": "box",
+            "min": [
+              -3,
+              3,
+              -3
+            ],
+            "size": [
+              6,
+              9,
+              6
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "op": "paint",
+      "color": 15,
+      "shape": {
+        "type": "ellipsoid",
+        "center": [
+          0,
+          20,
+          -2.7
+        ],
+        "radii": [
+          3.6,
+          13,
+          2
+        ]
+      }
+    },
+    {
+      "op": "paint",
+      "color": 15,
+      "shape": {
+        "type": "box",
+        "min": [
+          -3,
+          35,
+          -4
+        ],
+        "size": [
+          2,
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "op": "paint",
+      "color": 15,
+      "shape": {
+        "type": "box",
+        "min": [
+          1,
+          35,
+          -4
+        ],
+        "size": [
+          2,
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "op": "paint",
+      "color": 0,
+      "shape": {
+        "type": "box",
+        "min": [
+          -2,
+          36,
+          -4
+        ],
+        "size": [
+          1,
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "op": "paint",
+      "color": 0,
+      "shape": {
+        "type": "box",
+        "min": [
+          1,
+          36,
+          -4
+        ],
+        "size": [
+          1,
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "color": 25,
+      "shape": {
+        "type": "box",
+        "min": [
+          -1,
+          31,
+          -5
+        ],
+        "size": [
+          2,
+          3,
+          3
+        ]
+      }
+    }
+  ],
+  "packing": {
+    "mode": "mixed",
+    "maxPieces": 2500
+  }
+}

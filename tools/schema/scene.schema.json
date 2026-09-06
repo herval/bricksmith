@@ -1,0 +1,94 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Bricksmith native LDraw scene",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema",
+    "name",
+    "units",
+    "parts"
+  ],
+  "properties": {
+    "schema": {
+      "const": "bricksmith.scene.v1"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 100
+    },
+    "description": {
+      "type": "string",
+      "maxLength": 2000
+    },
+    "units": {
+      "const": "LDU"
+    },
+    "libraryDigest": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "assemblyOrder": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 5000,
+      "uniqueItems": true,
+      "items": {
+        "type": "string"
+      }
+    },
+    "parts": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 5000,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "part",
+          "color",
+          "position",
+          "rotation"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[-a-zA-Z0-9_]{1,64}$"
+          },
+          "part": {
+            "type": "string",
+            "description": "Any indexed main catalog .dat ID; alias and pattern IDs retained. No paths."
+          },
+          "color": {
+            "type": "integer",
+            "description": "Explicit LDConfig code; runtime rejects 16/24"
+          },
+          "position": {
+            "type": "array",
+            "minItems": 3,
+            "maxItems": 3,
+            "items": {
+              "type": "number",
+              "minimum": -100000,
+              "maximum": 100000
+            }
+          },
+          "rotation": {
+            "type": "array",
+            "minItems": 9,
+            "maxItems": 9,
+            "items": {
+              "type": "number",
+              "minimum": -1.000001,
+              "maximum": 1.000001
+            },
+            "description": "Row-major 3x3, runtime enforces R R^T=I and determinant +1 to tolerance 1e-6. No mirrored/scaled placements."
+          }
+        }
+      }
+    }
+  },
+  "description": "-Y up, +Z aft, 20 LDU/stud, 8 LDU/plate. A real catalog scene is not a rectangular voxel plan. Structural validity is unverified."
+}
