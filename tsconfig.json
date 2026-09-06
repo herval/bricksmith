@@ -11,15 +11,12 @@
     "strict": true,
     "noEmit": true,
     "skipLibCheck": true,
-    "allowImportingTsExtensions": true,
     "types": [
       "node"
     ]
   },
   "include": [
-    "src",
     "tests",
-    "scripts/*.ts",
-    "tools"
+    "tools/**/*.d.mts"
   ]
 }

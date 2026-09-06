@@ -1,9 +1,0 @@
-// Runs the existing browser smoke suite without touching :4173 or any persistent service.
-import {build} from 'vite';
-import {createServer} from 'node:http';
-import {mkdtemp,readFile,rm,mkdir} from 'node:fs/promises';
-import {tmpdir} from 'node:os';
-import {join,resolve,extname} from 'node:path';
-import {spawn} from 'node:child_process';
-const root=resolve(import.meta.dirname,'..'),temp=await mkdtemp(join(tmpdir(),'bricksmith-ui-test-'));let server;
-try{await build({configFile:false,root,logLevel:'silent',build:{outDir:join(temp,'site'),emptyOutDir:true}});server=createServer(async(req,res)=>{try{const path=decodeURIComponent(new URL(req.url,'http://localhost').pathname),target=resolve(temp,'site','.'+(path==='/'?'/index.html':path));if(!target.startsWith(join(temp,'site')+'/')){res.writeHead(403).end();return;}const bytes=await readFile(target);res.setHeader('Content-Type',({'.js':'text/javascript','.css':'text/css','.html':'text/html','.svg':'image/svg+xml'})[extname(target)]??'application/octet-stream');res.end(bytes);}catch{res.writeHead(404).end();}});await new Promise((done,reject)=>{server.once('error',reject);server.listen(0,'127.0.0.1',done);});const base='http://127.0.0.1:'+server.address().port;await mkdir(join(root,'artifacts','catalog','legacy-browser'),{recursive:true});const status=await new Promise((done,reject)=>{const child=spawn(process.execPath,[join(root,'scripts/browser-smoke.mjs')],{cwd:root,env:{...process.env,BRICKSMITH_URL:base,BRICKSMITH_TEST_OUT:join(root,'artifacts/catalog/legacy-browser')},stdio:'inherit'});child.on('error',reject);child.on('exit',done);});if(status!==0)throw Error('Browser smoke failed: '+status);console.log('Ephemeral browser suite complete; shutting down '+base);}finally{if(server){server.closeAllConnections();await new Promise(done=>server.close(done));}await rm(temp,{recursive:true,force:true});}

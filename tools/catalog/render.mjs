@@ -1,5 +1,5 @@
 import {build} from 'vite';
-import {chromium} from '@playwright/test';
+import {chromium} from 'playwright-core';
 import {createServer} from 'node:http';
 import {mkdtemp,mkdir,readFile,writeFile,rm} from 'node:fs/promises';
 import {existsSync} from 'node:fs';

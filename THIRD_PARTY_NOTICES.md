@@ -1,33 +1,26 @@
 # Third-party notices
 
-## LDraw test/reference data
+## Official LDraw runtime library
 
-`docs/3001-reference.dat`, `docs/LDConfig-reference.ldr`, and `docs/ldraw/` contain reference material from the official LDraw library. They are not used as runtime meshes. The 43 `.dat` part/subpart/primitive files in `docs/ldraw/` are unmodified; individual author, history and license statements remain in each file. The exact original URL for each cached file and its retrieval timestamp are in `docs/ldraw/manifest.json`.
+The installer obtains the official LDraw community archive from `https://library.ldraw.org/library/updates/complete.zip`. Its pinned release and SHA-256 are recorded in `tools/catalog/official-library.lock.json`. The downloaded archive and full extracted library stay in an excluded local cache; neither is part of this repository or the tools package.
 
-- Source library: https://library.ldraw.org/library/official/
-- Color configuration source: https://library.ldraw.org/library/official/LDConfig.ldr
-- File format: https://www.ldraw.org/article/218.html
-- Library licensing information: https://www.ldraw.org/article/349.html
-- Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/
+LDraw entries are community-authored geometry definitions, not LEGO's exhaustive commercial inventory. Original `CAreadme.txt`, `CAlicense.txt`, `CAlicense4.txt`, `Readme.txt`, per-part author/license/history headers and LDConfig are retained unchanged by the installer and dependency export.
 
-The cached part files declare **CC BY 4.0** and retain their authors’ names, including James Jessiman and other LDraw contributors. Consult each file header for specific attribution; this notice supplements rather than replaces those notices. No endorsement by LDraw.org or any contributor is implied. RGB values/code names are transcribed from the official LDConfig reference. The color configuration and original 3001 reference from the interrupted build were preserved.
+Selected parts can declare CC BY2.0 and CC BY4.0, or CC BY4.0. Consult the actual file headers and original library texts rather than assuming one license for all files. Scene exports deliberately include their unchanged required dependency subset and a source/digest manifest. Preserve that attribution and license evidence when distributing those exports. No library executable is run and no proprietary BrickLink Studio data is copied.
+
+The renderer's in-memory MPD normalizes references for the pinned Three.js loader. Exported source files remain byte-identical to the installed official files. Renders are derivative visualizations of the selected community-authored geometry.
+
+Reference sources:
+- Official library: https://library.ldraw.org/
+- LDraw format: https://www.ldraw.org/article/218.html
+- LDraw licensing information: https://www.ldraw.org/article/349.html
+
+The previous browser application's small rectangular test-fixture library has been removed with that application; it is not a runtime fallback catalog.
 
 ## JavaScript dependencies
 
-Three.js and its addons: MIT, https://github.com/mrdoob/three.js .
-Vite: MIT, https://github.com/vitejs/vite .
-TypeScript: Apache-2.0, https://github.com/microsoft/TypeScript .
-Playwright: Apache-2.0, https://github.com/microsoft/playwright .
-Other pinned dependencies and their individual license notices are included with their packages in `node_modules/` after `npm ci`; this is not a relicensing of those packages.
+Three.js and addons, Vite, Playwright and other dependencies retain their individual licenses. Exact dependency versions are pinned in package-lock.json; their original manifests/notices accompany the installed packages after npm installation. This document does not relicense those dependencies.
 
-## Trademarks
+## Names and trademarks
 
-LEGO is a trademark of the LEGO Group. Bricksmith is an independent prototype, not affiliated with, sponsored by or endorsed by the LEGO Group or LDraw.org. Compatibility here means use of documented stud-grid reference geometry, not a guarantee of mechanical quality or product certification.
-
-## Full official LDraw runtime library (v0.3 catalog workflow)
-
-The runtime installer downloads the complete **official LDraw community archive** from `https://library.ldraw.org/library/updates/complete.zip`, with SHA-256/version recorded in `tools/catalog/official-library.lock.json`. The 2026-08 archive is kept only in an excluded local cache, not included in the tools npm tarball. Library entries are community-authored definitions, not an exhaustive LEGO-company inventory or unique purchasable-part count.
-
-The original `CAreadme.txt`, `CAlicense.txt`, `CAlicense4.txt`, `Readme.txt`, per-part author/license/history headers and LDConfig are retained unchanged. Individual selected parts in the shuttle include files declaring **CC BY 2.0 and CC BY 4.0** as well as **CC BY 4.0**; consult the original headers and the archive's licensing texts, rather than assuming one license for every file. The portable shuttle scene export deliberately includes its unmodified licensed dependency subset, not the entire archive, and an exact file/source/digest manifest. Those original file headers provide detailed attribution. No library executable is run; no proprietary BrickLink Studio data is copied.
-
-The in-memory rendering MPD normalizes file references so the pinned Three.js loader can resolve dependencies without network probes. Exported library files themselves remain byte-identical to the installed official sources. Renders are derivative visualizations of those models; the portable bundle includes the attribution/license evidence for its selected source data. No contributor, LDraw.org or LEGO endorsement is implied.
+LEGO is a trademark of the LEGO Group. Bricksmith is independent and is not affiliated with, sponsored by or endorsed by the LEGO Group, LDraw.org, OpenAI or any library contributor. Documented geometry compatibility is not a guarantee of mechanical quality or a product certification.
